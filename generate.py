@@ -29,7 +29,7 @@ SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET", "2de710e9c69a4c20ac44
 
 # Base URL of your redirect service (GitHub Pages)
 # Example: "https://yourname.github.io/qr-redirect/"
-REDIRECT_BASE_URL = os.getenv("REDIRECT_BASE_URL", "https://der-duft-des-schaefers.ch")
+REDIRECT_BASE_URL = os.getenv("REDIRECT_BASE_URL", "https://redirect.der-duft-des-schaefers.ch")
 
 # Name of the CSV that maps slug -> target URL (for GitHub Pages redirect script)
 REDIRECT_CSV_FILENAME = "links.csv"
