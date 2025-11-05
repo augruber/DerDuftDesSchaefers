@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Redirecting…</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+  <p id="status">Redirecting…</p>
+
+  <script>
+    async function main() {
+      const statusEl = document.getElementById('status');
+
+      // 1. Read ?id=slug from the URL
+      const params = new URLSearchParams(window.location.search);
+      const id = params.get('id');
+
+      if (!id) {
+        statusEl.textContent = 'No id parameter in URL.';
+        return;
+      }
+
+      try {
+        // 2. Load the CSV file from the same repo
+        const resp = await fetch('links.csv');
+        if (!resp.ok) {
+          statusEl.textContent = 'Failed to load links.csv.';
+          return;
+        }
+
+        const text = await resp.text();
+        const lines = text.replace(/\r\n/g, '\n').trim().split('\n');
+
+        // Basic CSV parsing: first line = header
+        const header = lines.shift().split(',');
+        const slugIndex = header.indexOf('slug');
+        const urlIndex = header.indexOf('url');
+
+        if (slugIndex === -1 || urlIndex === -1) {
+          statusEl.textContent = 'CSV missing slug or url column.';
+          return;
+        }
+
+        let target = null;
+
+        for (const line of lines) {
+          if (!line.trim()) continue;
+
+          // Split only on the first comma, in case URLs contain commas
+          const parts = line.split(/,(.+)/);
+          const slug = parts[0].trim();
+          const url = (parts[1] || '').trim();
+
+          if (slug === id) {
+            target = url;
+            break;
+          }
+        }
+
+        if (!target) {
+          statusEl.textContent = 'No matching link found for id=' + id;
+          return;
+        }
+
+        statusEl.textContent = 'Redirecting to ' + target + '…';
+
+        // 3. Do the redirect
+        window.location.replace(target);
+      } catch (e) {
+        console.error(e);
+        statusEl.textContent = 'Error while redirecting.';
+      }
+    }
+
+    main();
+  </script>
+</body>
+</html>
