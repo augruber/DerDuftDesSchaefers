@@ -69,9 +69,10 @@ def load_csv(filename):
             title = (row[0] or "").strip() if len(row) > 0 else ""
             artist = (row[1] or "").strip() if len(row) > 1 else ""
             url = (row[2] or "").strip() if len(row) > 2 else ""
+            slug = (row[3] or "").strip() if len(row) > 3 else ""
             if not title and not artist and not url:
                 continue
-            rows.append([title, artist, url])
+            rows.append([title, artist, url, slug])
     return rows
 
 
@@ -323,17 +324,21 @@ if __name__ == "__main__":
 
     # Process rows
     for i, row in enumerate(data, start=1):
-        song, artist, url = row
+        song, artist, url, slug = row
         final_url, source = resolve_link(song, artist, url, spotify_token)
 
         if not final_url:
             print(f"❌ No link found for '{song}' by '{artist}'. Skipping.")
             continue
 
-        # Build slug and redirect URL
-        base_slug_text = song or artist or "track"
-        base_slug = slugify(f"{song}-{artist}") if (song or artist) else slugify(base_slug_text)
-        slug = make_unique_slug(base_slug, used_slugs)
+        if (slug == ""):
+            # Build slug and redirect URL
+            base_slug_text = song or artist or "track"
+            base_slug = slugify(f"{song}-{artist}") if (song or artist) else slugify(base_slug_text)
+            slug = make_unique_slug(base_slug, used_slugs)
+        else:
+            used_slugs.add(slug)
+
         redirect_url = make_redirect_url(slug)
 
         # Save QR for the redirect URL
@@ -346,6 +351,11 @@ if __name__ == "__main__":
         print(f"   Slug: {slug}")
         print(f"   Redirect URL (QR contents): {redirect_url}")
         print(f"   QR saved at: {saved_path}")
+
+
+    print(len(data), len(used_slugs))
+    assert(len(used_slugs) == len(data))
+
 
     # Write the redirect CSV (slug -> final URL) for GitHub Pages
     if redirect_rows:
