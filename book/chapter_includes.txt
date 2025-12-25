@@ -1,47 +1,3 @@
-\documentclass[fontsize=10pt,paper=a5,pagesize,open=any]{scrbook}
-
-\usepackage{fontspec}
-\setmainfont{Baskerville}
-\usepackage[german]{babel}
-\usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage{longtable}
-\usepackage{booktabs}
-\usepackage{array}
-\usepackage{calc}
-
-% Use serif font (Baskerville) for headings/disposition, set to 12pt (\large)
-\setkomafont{disposition}{\bfseries\large}
-\setkomafont{part}{\bfseries\fontsize{16pt}{20pt}\selectfont}
-\setkomafont{chapter}{\bfseries\large}
-\setkomafont{section}{\bfseries\large}
-\setkomafont{subsection}{\bfseries\large}
-\setkomafont{paragraph}{\bfseries\large}
-
-% Center chapter headings
-\renewcommand*{\raggedchapter}{\centering}
-
-
-% Adjust margins and set custom page size
-\usepackage[paperwidth=13.5cm,paperheight=21.5cm,margin=2cm,footskip=1.0cm]{geometry}
-
-% Center page numbers and adjust position
-\usepackage{scrlayer-scrpage}
-\clearpairofpagestyles
-% \cfoot*{\pagemark} <--- Removed to hide initially
-
-% Fix for potential image path issues if they are relative
-\graphicspath{{media/}}
-
-% Disable numbering for all levels (Part=-1, Chapter=0)
-\setcounter{secnumdepth}{-2}
-
-\begin{document}
-
-% \maketitle
-% \tableofcontents
-
-
 \input{chapters/00_frontmatter_Frontmatter.tex}
 \input{chapters/01_part_Teil_I.tex}
 \input{chapters/02_chapter_1.tex}
@@ -170,5 +126,3 @@
 \input{chapters/125_chapter_121.tex}
 \input{chapters/126_chapter_122.tex}
 \input{chapters/127_part_Fine.tex}
-
-\end{document}

@@ -1,0 +1,21 @@
+\part{Teil I}\label{teil-i}
+
+\newsavebox{\louisimagebox}
+\savebox{\louisimagebox}{%
+\begin{minipage}{\linewidth}
+\centering
+\includegraphics[width=\linewidth,height=!]{media/media/image2.jpeg}
+\par
+\raggedright\textit{Louis Marc Vincent}
+\vspace{3\baselineskip}
+\end{minipage}}
+
+\clearpage
+\cfoot*{\pagemark}
+
+\begingroup
+\renewcommand*{\chapterheadstartvskip}{%
+  \vspace*{0.5\baselineskip}%
+  {\centering \usebox{\louisimagebox}\par}%
+  \vspace{1.2  \baselineskip}%
+}
