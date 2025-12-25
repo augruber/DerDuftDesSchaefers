@@ -1,7 +1,7 @@
 \documentclass[fontsize=12pt,paper=a5,pagesize]{scrbook}
 
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\setmainfont{Baskerville}
 \usepackage[german]{babel}
 \usepackage{graphicx}
 \usepackage{hyperref}
@@ -9,7 +9,9 @@
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{calc}
-\usepackage{lmodern}
+
+% Use serif font (Baskerville) for headings/disposition
+\setkomafont{disposition}{\bfseries}
 
 
 % Adjust margins and set custom page size
@@ -21,6 +23,9 @@
 \title{Hinter dem Duft des Schäfers}
 \author{Louis Marc Vincent}
 \date{2025}
+
+% Disable numbering for all levels (Part=-1, Chapter=0)
+\setcounter{secnumdepth}{-2}
 
 \begin{document}
 
