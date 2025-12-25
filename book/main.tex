@@ -23,7 +23,12 @@
 
 
 % Adjust margins and set custom page size
-\usepackage[paperwidth=13.5cm,paperheight=21.5cm,margin=2cm]{geometry}
+\usepackage[paperwidth=13.5cm,paperheight=21.5cm,margin=2cm,footskip=1.0cm]{geometry}
+
+% Center page numbers and adjust position
+\usepackage{scrlayer-scrpage}
+\clearpairofpagestyles
+% \cfoot*{\pagemark} <--- Removed to hide initially
 
 % Fix for potential image path issues if they are relative
 \graphicspath{{media/}}
