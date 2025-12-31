@@ -19,7 +19,7 @@
 \setkomafont{part}{\bfseries\fontsize{16pt}{20pt}\selectfont}
 \setkomafont{chapter}{\bfseries\large}
 \setkomafont{section}{\bfseries\large}
-\setkomafont{subsection}{\bfseries\large}
+\setkomafont{subsection}{\mdseries\itshape\large}
 \setkomafont{paragraph}{\bfseries\large}
 
 % Center chapter headings
@@ -80,6 +80,35 @@
   \vspace{\baselineskip}
   \par
 }
+
+\newcommand{\songtext}[1]{%
+  \begin{center}
+   {\itshape #1}
+  \end{center}
+}
+
+\newcommand{\songtexttitled}[2]{%
+  \begin{center}
+   {\itshape \Large #1}
+
+    \vspace{\baselineskip}
+
+    \begin{spacing}{1.5}
+    {\itshape #2}
+    \end{spacing}
+
+  \end{center}
+}
+
+\newcommand{\indentedblock}[1]{%
+{   \setlength{\leftskip}{10pt}
+    \setlength{\rightskip}{10pt}
+    \setlength{\parindent}{0pt}
+    \itshape 
+    #1
+\par}
+}
+
 
 \begin{document}
 
