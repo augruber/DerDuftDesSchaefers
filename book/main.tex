@@ -2,7 +2,7 @@
 \raggedbottom
 
 \usepackage{fontspec}
-\setmainfont{Baskerville}
+\setmainfont{Cormorant Garamond}
 \newfontfamily\letterfont{Andale Mono}
 \usepackage[german]{babel}
 \usepackage{graphicx}
@@ -37,6 +37,34 @@
 
 % Fix for potential image path issues if they are relative
 \graphicspath{{media/}}
+
+% Global QR code size
+\newlength{\qrsize}
+\setlength{\qrsize}{2cm} 
+
+% Global QR code spacings
+\newlength{\qrspacebefore}
+\setlength{\qrspacebefore}{1.5\baselineskip}
+\newlength{\qrspaceafter}
+\setlength{\qrspaceafter}{0.8\baselineskip}
+
+% Custom command for QR codes
+\newcommand{\qrcode}[1]{%
+  \includegraphics[width=\qrsize,height=\qrsize]{#1}%
+}
+
+% Custom command for the entire QR block
+\newcommand{\qrblock}[2]{%
+  \begin{center}
+    \vspace{\qrspacebefore}
+    \begin{minipage}{\linewidth}
+      \centering
+      #1\par\vspace{0.5\baselineskip}
+      \qrcode{#2}
+    \end{minipage}
+    \vspace{\qrspaceafter}
+  \end{center}
+}
 
 % Disable numbering for all levels (Part=-1, Chapter=0)
 \setcounter{secnumdepth}{-2}
