@@ -44,9 +44,11 @@
 
 % Global QR code spacings
 \newlength{\qrspacebefore}
-\setlength{\qrspacebefore}{1.5\baselineskip}
+\setlength{\qrspacebefore}{0.7\baselineskip}
 \newlength{\qrspaceafter}
-\setlength{\qrspaceafter}{0.8\baselineskip}
+\setlength{\qrspaceafter}{0.0\baselineskip}
+\newlength{\qrsep}
+\setlength{\qrsep}{0.2\baselineskip}
 
 % Custom command for QR codes
 \newcommand{\qrcode}[1]{%
@@ -59,7 +61,7 @@
     \vspace{\qrspacebefore}
     \begin{minipage}{\linewidth}
       \centering
-      #1\par\vspace{0.5\baselineskip}
+      #1\strut\par\vspace{\qrsep}
       \qrcode{#2}
     \end{minipage}
     \vspace{\qrspaceafter}
