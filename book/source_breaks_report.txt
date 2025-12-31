@@ -1,0 +1,2960 @@
+Source Break Report for book/clean_source.txt
+Total Breaks Found: 739
+========================================
+
+[BREAK] Source Line ~56
+Prev: ...Die weit offenen Augen blieben am Himmel hängen.
+Next: Der steile Kiesweg war schmal. Unkontrolliert schlitterte er...
+--------------------
+[BREAK] Source Line ~59
+Prev: ...Unmöglich.
+Next: Er versuchte, das Bild zu schliessen....
+--------------------
+[BREAK] Source Line ~61
+Prev: ...Er versuchte, das Bild zu schliessen.
+Next: Er ballte seine Hände zu Fäusten. Bis sie heiss und die Knöc...
+--------------------
+[BREAK] Source Line ~64
+Prev: ...Wo war sie?
+Next: Pausenlos zwangen sich Bilder und kurze Szenen auf. Blitzlic...
+--------------------
+[BREAK] Source Line ~66
+Prev: ...auf unterbrochen. In langer Reihe und bissiger Wiederholung.
+Next: Sein Kopf, ein zu prall aufgeblasener Ballon. Und kurz vor d...
+--------------------
+[BREAK] Source Line ~97
+Prev: ..., ein zu prall aufgeblasener Ballon. Und kurz vor dem Knall.
+Next: Teil I...
+--------------------
+[BREAK] Source Line ~139
+Prev: ...Teil I
+Next: Louis Marc Vincent...
+--------------------
+[BREAK] Source Line ~143
+Prev: ...Louis Marc Vincent
+Next: 1...
+--------------------
+[BREAK] Source Line ~148
+Prev: ...1
+Next: Mailand (IT), Sonntag, 19. August...
+--------------------
+[BREAK] Source Line ~150
+Prev: ...Mailand (IT), Sonntag, 19. August
+Next: Louis schwitzte. Er wischte sich mit dem Handrücken die Schw...
+--------------------
+[BREAK] Source Line ~156
+Prev: ...er Wohnung versuchte er sich dem Schatten entlang zu retten.
+Next: Es war wie jeden Abend. Und über die Wochen zur Gewohnheit g...
+--------------------
+[BREAK] Source Line ~159
+Prev: ...m war, noch immer. Heute berührte ihn der Gedanke besonders.
+Next: «Al cuoco, al cuoco, al cuoco...a Louis...,» hatte er auch d...
+--------------------
+[BREAK] Source Line ~164
+Prev: ...ale Lücke hatte, wie Ornella Muti, entdeckte er erst später.
+Next: Grandpère hatte die Muti verehrt und ihre Zahnlücke geliebt....
+--------------------
+[BREAK] Source Line ~166
+Prev: ...nflug von Nostalgie und auch ein bisschen, um sie zu necken.
+Next: Selbst wenn es mit Giorgia vorbei schien und die Hoffnung au...
+--------------------
+[BREAK] Source Line ~169
+Prev: ...ineindrängte. In seine vergangene Vorstellung von Seligkeit.
+Next: Ray Charles «Giorgia»...
+--------------------
+[BREAK] Source Line ~172
+Prev: ...Ray Charles «Giorgia»
+Next: Grandpère. Er war über die letzten Jahre präsenter geworden....
+--------------------
+[BREAK] Source Line ~175
+Prev: ...on Bedeutung. Grandpère, dieser passionierte Musikliebhaber.
+Next: Damals. Fribourg, vier....
+--------------------
+[BREAK] Source Line ~180
+Prev: ...halm das Getränk in sich ein. Die Dose soll nie leer werden.
+Next: Das Wasser spritzte scharf aus der Brause und erfrischte Lou...
+--------------------
+[BREAK] Source Line ~184
+Prev: ... hüllte ihn ein. Er sog ihn tief in sich ein. Er war bereit.
+Next: Louis packte den Rucksack kurz nach zwanzig Uhr. Doch aufs N...
+--------------------
+[BREAK] Source Line ~189
+Prev: ...n von Küche und zwischen seinen Anweisungen an die Gehilfen.
+Next: Er setzte sich auf, als ihm ihre gemeinsamen Geschichten wei...
+--------------------
+[BREAK] Source Line ~193
+Prev: ... on Your Crazy Diamond” würde einzig für sie beide gespielt.
+Next: David Gilmour «Shine on Your Crazy Diamond”...
+--------------------
+[BREAK] Source Line ~200
+Prev: ...David Gilmour «Shine on Your Crazy Diamond”
+Next: Giorgia Sala...
+--------------------
+[BREAK] Source Line ~203
+Prev: ...Giorgia Sala
+Next: Giorgia und er am Morgen, am Abend, Nachts. Giorgia ihm gege...
+--------------------
+[BREAK] Source Line ~218
+Prev: ...nschaft angereichert, einen Platz in ihm eingerichtet hatte.
+Next: Rod Stewart «Waltzing Mathilda»...
+--------------------
+[BREAK] Source Line ~222
+Prev: ...Rod Stewart «Waltzing Mathilda»
+Next: Diese Frau hatte er erobern können. Seine Giorgia, wild und ...
+--------------------
+[BREAK] Source Line ~230
+Prev: ...ch davor gefürchtet, sich nicht entspannt bewegen zu können.
+Next: Louis erhob sich und begann ungebremst zwischen Küche und Wo...
+--------------------
+[BREAK] Source Line ~235
+Prev: ...nte, wurden die Gegenstände zu seinen kleinen Kostbarkeiten.
+Next: Mit Blick in die Gasse blieb er vor dem Fenster stehen. Er s...
+--------------------
+[BREAK] Source Line ~237
+Prev: ...aren und gaben der schmalen Nebenstrasse ihre Stille zurück.
+Next: Wie so oft hatte er sich auch damals, an diesem saukalten Wi...
+--------------------
+[BREAK] Source Line ~251
+Prev: ...Dabei hatte sich Louis klein gefühlt.
+Next: Leonard Cohen «Take with Waltz»...
+--------------------
+[BREAK] Source Line ~255
+Prev: ...Leonard Cohen «Take with Waltz»
+Next: Immer wieder sah er sie vor sich. Giorgia, dieses reiche Pak...
+--------------------
+[BREAK] Source Line ~257
+Prev: ...dieses reiche Paket an Leidenschaft, Überraschung und Kraft.
+Next: Lange hatte es funktioniert. Hatte Louis seine Sprachlosigke...
+--------------------
+[BREAK] Source Line ~260
+Prev: ...iger, gelegentlich auch lauter und kompromissloser geworden.
+Next: Er fühlte sich weit mehr als einsam. Er war verloren....
+--------------------
+[BREAK] Source Line ~267
+Prev: ...er Schlüsseldrehung hinter sich ab. Gegen einundzwanzig Uhr.
+Next: Das Klicken seiner Schuhe gab der leeren Gasse eine gespenst...
+--------------------
+[BREAK] Source Line ~276
+Prev: ... Gitarrenkoffer auf seinen Schuhspitzen ab. Er atmete flach.
+Next: 2...
+--------------------
+[BREAK] Source Line ~281
+Prev: ...2
+Next: Der ansteigende Schotterweg hinauf zum Felsen hatte sich übe...
+--------------------
+[BREAK] Source Line ~286
+Prev: ...Beim letzten Mal hier oben hatte er noch gehofft.
+Next: Bald waren einige Gestalten klar zu erkennen. Louis verlangs...
+--------------------
+[BREAK] Source Line ~291
+Prev: ... wie sie denn zu ihm stehe, hatte sie damals weit ausgeholt.
+Next: Ins Geld geboren, hatte sie erzählt, wurden Bastiano schon a...
+--------------------
+[BREAK] Source Line ~311
+Prev: ...n aufgewachsen sind und die Geheimnisse voneinander kennen.»
+Next: Bastiano Gabriele di Martino...
+--------------------
+[BREAK] Source Line ~314
+Prev: ...Bastiano Gabriele di Martino
+Next: Eigentlich hatte Louis Giorgias Vertrautheit mit Bastiano vo...
+--------------------
+[BREAK] Source Line ~320
+Prev: ...sammenpassten. Und hatte sie mit ihren Fragen stehen lassen.
+Next: Giorgia hatte recht. Es hatte keine Chance für sie gegeben, ...
+--------------------
+[BREAK] Source Line ~325
+Prev: ...Dann war es zu spät gewesen.
+Next: «Louis?»...
+--------------------
+[BREAK] Source Line ~345
+Prev: ...n hier her kommen können. Ihm war, als falle er auseinander.
+Next: Damals, Fribourg, fünf....
+--------------------
+[BREAK] Source Line ~353
+Prev: ...st enttäuscht und fragt sich, wozu er das Rätsel gelöst hat.
+Next: Er hatte keine Wahl gehabt, damals, Vater nicht zu glauben....
+--------------------
+[BREAK] Source Line ~358
+Prev: ...g von sich zu stossen. Dahin zurück, wo sie hergekommen war.
+Next: Bald war es unausweichlich, dass die Klänge ihn trafen. Scha...
+--------------------
+[BREAK] Source Line ~365
+Prev: .... Und hatte es genossen. Giorgia war anders als alle Frauen.
+Next: Luis Fonsi and Daddy Yankee «Despasito»...
+--------------------
+[BREAK] Source Line ~370
+Prev: ...Luis Fonsi and Daddy Yankee «Despasito»
+Next: Es war geradezu niederträchtig. Der «Roccia del Culto» hatte...
+--------------------
+[BREAK] Source Line ~373
+Prev: ...Nunmehr ein einziger Hohn.
+Next: Was hatte Giorgias Trennung nur mit ihm angestellt. Ihre Abw...
+--------------------
+[BREAK] Source Line ~384
+Prev: ...ft ging, wie gekommen. Er fühlte sich starr wie eine Statue.
+Next: 3...
+--------------------
+[BREAK] Source Line ~388
+Prev: ...3
+Next: «Roccia del Culto», Mailand (IT)...
+--------------------
+[BREAK] Source Line ~390
+Prev: ...«Roccia del Culto», Mailand (IT)
+Next: Den Blick schliesslich an sie geheftet, sah er ihr Gesicht....
+--------------------
+[BREAK] Source Line ~400
+Prev: ... löschen, auch wie immer. Oder es war wie heute, keiner kam.
+Next: Verstohlen beobachtete Louis nun seine Freunde. Sah ihre Aus...
+--------------------
+[BREAK] Source Line ~405
+Prev: ...nde das untrügliche Zeichen, dass er auf Eroberungstour war.
+Next: Irama “Nera”...
+--------------------
+[BREAK] Source Line ~409
+Prev: ...Irama “Nera”
+Next: Da stand Bastiano unterdessen, schwankend, zusammen mit eine...
+--------------------
+[BREAK] Source Line ~415
+Prev: ...h sie würde er einnehmen, ausnutzen und später fallenlassen.
+Next: Bastiano war inzwischen aus dem Dunkel aufgetaucht. Er warf ...
+--------------------
+[BREAK] Source Line ~419
+Prev: ...Es war sonderbar.
+Next: Hatte es wirklich nur an seiner verschlossenen Art gelegen?...
+--------------------
+[BREAK] Source Line ~426
+Prev: ...es anstellen. Alleine mit ihr sprechen, ohne all die andern?
+Next: Als wären Louis` Gedanken auf Giorgia übergesprungen, stand ...
+--------------------
+[BREAK] Source Line ~434
+Prev: ...eren? Sie musste gewusst haben, dass er heute da sein würde.
+Next: Louis fühlte sich von Valentina beobachtet. Sie schien seine...
+--------------------
+[BREAK] Source Line ~438
+Prev: ... Beinen der Tanzenden hindurch und hielt die Nacht am Leben.
+Next: Francesco Gabbani “Occidentail`s Karma”...
+--------------------
+[BREAK] Source Line ~442
+Prev: ...Francesco Gabbani “Occidentail`s Karma”
+Next: Dann der Wechsel. Abrupt. Die Emotionen wandelten sich....
+--------------------
+[BREAK] Source Line ~446
+Prev: ...«The Feeling Begins» löste den letzten Song ab.
+Next: Peter Gabriel «The Feeling Begins”...
+--------------------
+[BREAK] Source Line ~450
+Prev: ...Peter Gabriel «The Feeling Begins”
+Next: Die Leichtigkeit kippte. Louis war, als lege sich eine schwe...
+--------------------
+[BREAK] Source Line ~468
+Prev: ...Louis holte Luft.
+Next: 4...
+--------------------
+[BREAK] Source Line ~472
+Prev: ...4
+Next: Montag, 20. August...
+--------------------
+[BREAK] Source Line ~474
+Prev: ...Montag, 20. August
+Next: Er griff nach seinem Rucksack, erhob sich und ging mit entsc...
+--------------------
+[BREAK] Source Line ~485
+Prev: ...it Kraft und direkt hinter Giorgia tat sich der Abgrund auf.
+Next: Sie fuchtelte mit den Armen. Er ging langsam näher auf sie z...
+--------------------
+[BREAK] Source Line ~513
+Prev: ...Schliesslich hetzte er ziellos davon.
+Next: Damals, Fribourg, sechs....
+--------------------
+[BREAK] Source Line ~553
+Prev: ...n Surren erklingt. Louis stösst die Tür auf. Sie ist schwer.
+Next: 5...
+--------------------
+[BREAK] Source Line ~557
+Prev: ...5
+Next: Es folgten ruhige Songs. Die Lautstärke wurde zurückgedreht....
+--------------------
+[BREAK] Source Line ~603
+Prev: ...Er grinste.
+Next: Vor Marias Haustür verabschiedeten sie sich. Während sie die...
+--------------------
+[BREAK] Source Line ~605
+Prev: ...wenn ich störe, dachte sie. Sie schickte ihr ein Herz-Emoji.
+Next: Mit einem Schulterzucken holte Valentina Louis` Gitarrenkoff...
+--------------------
+[BREAK] Source Line ~634
+Prev: ...Dann löschte sie das Licht.
+Next: 6...
+--------------------
+[BREAK] Source Line ~638
+Prev: ...6
+Next: Louis rannte, einer  fremdgesteuerten Spielzeugfigur gleich,...
+--------------------
+[BREAK] Source Line ~645
+Prev: ...enigstens. Aber es gelang nicht. Alles war weg. Wie Giorgia.
+Next: Wie kann ich entkommen?...
+--------------------
+[BREAK] Source Line ~656
+Prev: ... widersprüchliche Tiefe der weit zurückliegenden Erinnerung.
+Next: Mamuth Orthan, Ali Arutan, Selin “In Control”...
+--------------------
+[BREAK] Source Line ~660
+Prev: ...Mamuth Orthan, Ali Arutan, Selin “In Control”
+Next: Der Song jagte Louis` Herz hoch und runter. Und augenblickli...
+--------------------
+[BREAK] Source Line ~665
+Prev: ...ster,» hauchte er theatralisch. Es sollte überlegen klingen.
+Next: Diesmal wusste Louis, wovor er sich fürchtete....
+--------------------
+[BREAK] Source Line ~673
+Prev: ...r Verzweiflung würde er auch sein Handy verschwinden lassen.
+Next: Die Nacht war mild. Der Himmel finster....
+--------------------
+[BREAK] Source Line ~686
+Prev: ...ken liessen seinen Kopf brennen. Schliesslich nickte er ein.
+Next: 7...
+--------------------
+[BREAK] Source Line ~690
+Prev: ...7
+Next: Mailand (IT), Montag, 20. August...
+--------------------
+[BREAK] Source Line ~692
+Prev: ...Mailand (IT), Montag, 20. August
+Next: Mit gebeugten Fingern strich er ihr sanft über die Wange. Si...
+--------------------
+[BREAK] Source Line ~754
+Prev: ...Es war fast drei.
+Next: 8...
+--------------------
+[BREAK] Source Line ~758
+Prev: ...8
+Next: Kurz vor Sonnenaufgang schrak Louis hoch. Hatte er geschlafe...
+--------------------
+[BREAK] Source Line ~765
+Prev: ...ihn mit befremdender Selbstverständlichkeit in den Rucksack.
+Next: Er würde es als Anhalter versuchen. Sich an die Autobahnauff...
+--------------------
+[BREAK] Source Line ~767
+Prev: ...stätte stellen und warten. Die Entscheidung kam überzeugend.
+Next: Louis suchte die Waschräume der Raststätte auf. Die Herrento...
+--------------------
+[BREAK] Source Line ~775
+Prev: ...elen. Gerade jetzt. Und sich in die Klänge fallen zu lassen.
+Next: Auf dem kurzen Weg zur Autobahnauffahrt schlängelte er sich ...
+--------------------
+[BREAK] Source Line ~779
+Prev: ... sich plötzlich vor der offenen Tür eines massigen Gefährts.
+Next: 9...
+--------------------
+[BREAK] Source Line ~783
+Prev: ...9
+Next: Montag, 20. August...
+--------------------
+[BREAK] Source Line ~785
+Prev: ...Montag, 20. August
+Next: Aus der Führerkabine klang Musik. Ein alter, amerikanischer ...
+--------------------
+[BREAK] Source Line ~818
+Prev: ...Er hatte ihn bei seinem Grossvater gehört. Es war lange her.
+Next: Perry Como «Killing mi softly»...
+--------------------
+[BREAK] Source Line ~822
+Prev: ...Perry Como «Killing mi softly»
+Next: Von wegen, «softly» gekillt. Der abstruse Gedanke kam als er...
+--------------------
+[BREAK] Source Line ~826
+Prev: ...lten trotzdem über seine Wangen. Giovanni bemerkte es nicht.
+Next: Es war unfassbar. Giorgia, seine ihm über die Jahre ans Herz...
+--------------------
+[BREAK] Source Line ~828
+Prev: ...hen sehen, wären sie als Selbstrechtfertigung durchgegangen.
+Next: Louis konnte sich nicht erinnern, wann er vor seinem Zusamme...
+--------------------
+[BREAK] Source Line ~846
+Prev: ...wischen Papieren nach seinem Geldbeutel und steckte ihn ein.
+Next: Sie stellten sich im Selbstbedienungsbereich Frühstückstelle...
+--------------------
+[BREAK] Source Line ~862
+Prev: ...ben. Vor all den Tragödien, die sie mit ihrem Vater erlebte.
+Next: Louis schielte zu Giovanni hinüber. Auch er war ein Vater. M...
+--------------------
+[BREAK] Source Line ~869
+Prev: ...einen magischen Moment in einer fragilen Blase des Friedens.
+Next: Perry Como «Magic Moments»...
+--------------------
+[BREAK] Source Line ~873
+Prev: ...Perry Como «Magic Moments»
+Next: Woher dieser kleine Lastwagenfahrer nur diese pure Fröhlichk...
+--------------------
+[BREAK] Source Line ~882
+Prev: ...10
+Next: Tessin (CH)...
+--------------------
+[BREAK] Source Line ~884
+Prev: ...Tessin (CH)
+Next: «Gio-Gio, hallo-o,» die Worte kamen von weit her, «aufwachen...
+--------------------
+[BREAK] Source Line ~904
+Prev: ...ick durch die Brille strengte Louis an. Seine Augen tränten.
+Next: Neben ihnen krachten ununterbrochen Personenwagen, LKWs und ...
+--------------------
+[BREAK] Source Line ~944
+Prev: ...entrierte sich mit Blick in den Rückspiegel auf den Verkehr.
+Next: 11...
+--------------------
+[BREAK] Source Line ~948
+Prev: ...11
+Next: Zürich (CH)...
+--------------------
+[BREAK] Source Line ~950
+Prev: ...Zürich (CH)
+Next: Louis nickte rasch, hob den Rucksack hoch und bedankte sich....
+--------------------
+[BREAK] Source Line ~954
+Prev: ...g genannt hatte. Giovanni. Ihn würde er wohl nie mehr sehen.
+Next: Zürich. Die Autos bretterten von allen Seiten an ihm vorbei....
+--------------------
+[BREAK] Source Line ~970
+Prev: ...uche nach einer geeigneteren Brille war erfolglos geblieben.
+Next: Der Einkauf hatte ihn angestrengt. Wenigstens hatte ihn niem...
+--------------------
+[BREAK] Source Line ~973
+Prev: ...it der sich die Menschen bewegten. Es konnte ihm recht sein.
+Next: Während des Gehens riss Louis die Papiertüte eines Sandwiche...
+--------------------
+[BREAK] Source Line ~983
+Prev: ...Die Angst verlor an Dominanz.
+Next: John Butler «OCEAN»...
+--------------------
+[BREAK] Source Line ~987
+Prev: ...John Butler «OCEAN»
+Next: Unerwartet hörte er Grandpères Worte in sich....
+--------------------
+[BREAK] Source Line ~997
+Prev: ...Unerwartet hörte er Grandpères Worte in sich.
+Next: Damals, Fribourg, sieben....
+--------------------
+[BREAK] Source Line ~1017
+Prev: ...Es ist verrückt. Es klappt.
+Next: Nach längerem Gehen erreichte er ein grosses Gebäude im Rohb...
+--------------------
+[BREAK] Source Line ~1038
+Prev: ... der Stadt. In weitem Abstand dazu lagen Mehrfamilienhäuser.
+Next: 12...
+--------------------
+[BREAK] Source Line ~1042
+Prev: ...12
+Next: Inmitten vereinzelter Bäume stand eine Bank. Erleichtert lie...
+--------------------
+[BREAK] Source Line ~1048
+Prev: ...Gebäude einsteigen und am frühen Morgen wieder verschwinden.
+Next: Der Einstieg über die Ostseite des Rohbaus ging leicht. Die ...
+--------------------
+[BREAK] Source Line ~1052
+Prev: ...te er nicht. Nicht auch noch. Er schlief augenblicklich ein.
+Next: Bis plötzlich......
+--------------------
+[BREAK] Source Line ~1074
+Prev: ...Sie hatten ihn.
+Next: 13...
+--------------------
+[BREAK] Source Line ~1078
+Prev: ...13
+Next: «Ey, still, sei still, psst,» eine weibliche Stimme hinter d...
+--------------------
+[BREAK] Source Line ~1134
+Prev: ...Und Jess rückte näher an ihn heran.
+Next: 14...
+--------------------
+[BREAK] Source Line ~1138
+Prev: ...14
+Next: Die Begegnung mit Jess wurde zu einer Herausforderung obendr...
+--------------------
+[BREAK] Source Line ~1140
+Prev: ...vor ihm. Und mit ihr diese Geschichte als ihre Wirklichkeit.
+Next: Louis` erfundene «Studie» hatte Jess beflügelt. Es schien, a...
+--------------------
+[BREAK] Source Line ~1159
+Prev: ...ie berührte ihn. Er würde sich kenntlich zeigen. Mehr nicht.
+Next: Jess wirkte stolz....
+--------------------
+[BREAK] Source Line ~1171
+Prev: ...s zog er die Hörer über den Kopf und reichte sie ihr zurück.
+Next: M83 «Wait»...
+--------------------
+[BREAK] Source Line ~1174
+Prev: ...M83 «Wait»
+Next: «Warum hörst du dir sowas an?»...
+--------------------
+[BREAK] Source Line ~1185
+Prev: ...tandenem Leben. Und diesmal schämte er sich für sein Urteil.
+Next: Wenn dieser Mascha wirklich ein mit allen Wassern gewaschene...
+--------------------
+[BREAK] Source Line ~1226
+Prev: ...r über ihr Schicksal nachdenken. Er konnte ihr nicht helfen.
+Next: 15...
+--------------------
+[BREAK] Source Line ~1230
+Prev: ...15
+Next: Dienstag, 21. August...
+--------------------
+[BREAK] Source Line ~1232
+Prev: ...Dienstag, 21. August
+Next: Louis ahnte Jess` Blick im Rücken, als er sich in der Dunkel...
+--------------------
+[BREAK] Source Line ~1235
+Prev: ...fte, dass sie klug genug war, sich etwas zu essen zu kaufen.
+Next: Der Tag war einmal mehr endlos heiss geworden. Die Sonne bra...
+--------------------
+[BREAK] Source Line ~1244
+Prev: ...en kreisten ununterbrochen und haltlos in seinem Kopf herum.
+Next: Schliesslich war es kurz nach dreiundzwanzig Uhr und dunkel....
+--------------------
+[BREAK] Source Line ~1249
+Prev: ...nden Polizeiwagen in Deckung gebracht. Die Hoffnung schwand.
+Next: Doch dann, endlich....
+--------------------
+[BREAK] Source Line ~1276
+Prev: ...Jemand leierte am Klavier Beethovens «Für Elise» herunter.
+Next: Beethoven «Für Elise»...
+--------------------
+[BREAK] Source Line ~1280
+Prev: ...Beethoven «Für Elise»
+Next: Louis wurde übel. Sein Kopf schmerzte. Und wie er hier vor M...
+--------------------
+[BREAK] Source Line ~1312
+Prev: ...gerade zum Gehen umdrehen, als er ihn an der Schulter hielt.
+Next: 16...
+--------------------
+[BREAK] Source Line ~1316
+Prev: ...16
+Next: Donnerstag, 23. August...
+--------------------
+[BREAK] Source Line ~1318
+Prev: ...Donnerstag, 23. August
+Next: «Noch n` Tipp für dich. Bist ein schöner Kerl, gut für die F...
+--------------------
+[BREAK] Source Line ~1321
+Prev: ...t offenem Mund stehen. Er verschwand mit hastigen Schritten.
+Next: Es hatte geklappt. Gegen alle Bedenken. War unkomplizierter ...
+--------------------
+[BREAK] Source Line ~1325
+Prev: ...üssen. Ja, Mascha war gut. Und er fühlte sich ihm zugeneigt.
+Next: Louis steckte das Büchlein ein und schaute sich um. Es war Z...
+--------------------
+[BREAK] Source Line ~1328
+Prev: ...e ihn vorübergehend schützen. Vor seiner eigenen Geschichte.
+Next: Lorente Ciro José...
+--------------------
+[BREAK] Source Line ~1338
+Prev: ...12.06.2024         Behörde Autorité: Genf GE
+Next: Es war nach Mitternacht. Der wolkenlose Himmel hing dunkelgr...
+--------------------
+[BREAK] Source Line ~1348
+Prev: ...efahr sah, mimte er den Franzosen, der kein Englisch sprach.
+Next: Louis richtete sich in der hintersten Ecke, direkt vor den B...
+--------------------
+[BREAK] Source Line ~1351
+Prev: ...Damit fiel er in einen komaähnlichen Tiefschlaf.
+Next: Kaum erwacht, zog Louis am nächsten Morgen als Erstes seinen...
+--------------------
+[BREAK] Source Line ~1358
+Prev: ...gung. Sich neu erschaffen. Bis er wusste, wie es weiterging.
+Next: Wie tags zuvor hatte Louis sich an Kiosken Titelseiten von T...
+--------------------
+[BREAK] Source Line ~1361
+Prev: ...uch mit ihr geschehen war, so schnell wurde nicht gefahndet.
+Next: Louis suchte den Einstieg in die Bahnhofstrasse.  Laut Fahrp...
+--------------------
+[BREAK] Source Line ~1394
+Prev: ...für einen flüchtigen Moment fühlte er sich wie ein Urlauber.
+Next: 17...
+--------------------
+[BREAK] Source Line ~1398
+Prev: ...17
+Next: Die Unruhe kam mit den Gedanken an Giorgia zurück. Diese quä...
+--------------------
+[BREAK] Source Line ~1400
+Prev: ...e, wie sie vor ihm taumelte, schrie, kämpfte und verschwand.
+Next: Als wäre es gerade eben gewesen, sah er sich am Klavier sitz...
+--------------------
+[BREAK] Source Line ~1412
+Prev: ... und entschieden für eine endgültige Trennung ausgesprochen.
+Next: Ihre Antwort auf seinen Brief und ihre letzte Nachricht hatt...
+--------------------
+[BREAK] Source Line ~1419
+Prev: ...e Zeit. Bin auch traurig. Die Erinnerungen bleiben. Giorgia»
+Next: Birdy and Rhodes «Let it all go»...
+--------------------
+[BREAK] Source Line ~1422
+Prev: ...Birdy and Rhodes «Let it all go»
+Next: Hilflos und wütend hatte sie ihn zurückgelassen. Sie hatte k...
+--------------------
+[BREAK] Source Line ~1426
+Prev: ...ür ihn und seine Lieder. Um teilzuhaben an seiner Musikwelt.
+Next: Louis suchte Giorgias Blick und seine Hände begannen zu zitt...
+--------------------
+[BREAK] Source Line ~1431
+Prev: ...Es gab kein Zurück.
+Next: Im Nachhinein hatte er sich eingestehen müssen, dass er Gior...
+--------------------
+[BREAK] Source Line ~1433
+Prev: ...e nie bei ihm angekommen. Und all das an Francos Geburtstag.
+Next: Giorgia hatte sich kerzengerade aufgesetzt. Unsicher und ein...
+--------------------
+[BREAK] Source Line ~1445
+Prev: ...erklänge begannen sich im Raum zu verteilen. Und Louis sang.
+Next: Pablo Alborán «Prometo»...
+--------------------
+[BREAK] Source Line ~1449
+Prev: ...Pablo Alborán «Prometo»
+Next: Sie hatte durchgehalten. Bis zum Ende des Songs und Louis` W...
+--------------------
+[BREAK] Source Line ~1482
+Prev: ...ina verwarf die Hände und schaute hilfesuchend in die Runde.
+Next: 18...
+--------------------
+[BREAK] Source Line ~1486
+Prev: ...18
+Next: Zürich (CH), Freitag, 24. August...
+--------------------
+[BREAK] Source Line ~1488
+Prev: ...Zürich (CH), Freitag, 24. August
+Next: Schliesslich war Valentina Giorgia hinterhergehetzt....
+--------------------
+[BREAK] Source Line ~1491
+Prev: ...ng zu ihm und legte seine Arme von hinten über Louis` Brust.
+Next: Tiefer hätte Louis nicht mehr fallen können. Giorgia musste ...
+--------------------
+[BREAK] Source Line ~1495
+Prev: ...ann, als er seine innere Not offenbarte, war es auch falsch.
+Next: Louis stach mit der Gabel das letzte Fruchtstück auf. Konnte...
+--------------------
+[BREAK] Source Line ~1498
+Prev: ...Er hatte versagt. Und war zum Feigling geworden.
+Next: Seine vergangene Nacht sollte hier die letzte gewesen sein. ...
+--------------------
+[BREAK] Source Line ~1502
+Prev: ...Louis bezahlte.
+Next: Nach ziellosem Herumgehen stand er vor der Quai-Brücke. Er ü...
+--------------------
+[BREAK] Source Line ~1504
+Prev: ...uten Stern weitergehen. Insgeheim glaubte er nur wage daran.
+Next: Damals, Fribourg, sechs....
+--------------------
+[BREAK] Source Line ~1522
+Prev: ...abwechselnd an. Grandpère klopft ihm sanft auf die Schulter.
+Next: Erst viele Jahre später hatte es Louis verstanden. Maman hat...
+--------------------
+[BREAK] Source Line ~1527
+Prev: ...onate gebraucht, seine Wut zu verstehen. Auch die auf Maman.
+Next: Seine letzte Handlung in Zürich sollte der Kauf einer Gitarr...
+--------------------
+[BREAK] Source Line ~1559
+Prev: ...e noch die sich rundum nähernden Menschen nahm er mehr wahr.
+Next: Tom Waits «Hold on»...
+--------------------
+[BREAK] Source Line ~1562
+Prev: ...Tom Waits «Hold on»
+Next: Dave spielte den letzten Akkord. Erst blieb es still....
+--------------------
+[BREAK] Source Line ~1617
+Prev: ...Louis war wieder alleine mit ihm.
+Next: 19...
+--------------------
+[BREAK] Source Line ~1621
+Prev: ...19
+Next: «Danke, ein wundervoller Song. Du bist ein toller Gitarrist ...
+--------------------
+[BREAK] Source Line ~1633
+Prev: ...hte ihm Glück. Sie verabschiedeten sich. Wie es Freunde tun.
+Next: Während Louis die Wiese durchquerte, sah er sie erneut vor s...
+--------------------
+[BREAK] Source Line ~1638
+Prev: ... erinnern, daran, dass sie zusammen den Text gelernt hatten.
+Next: Enrico Nigiotti & Matilde Gioli «L`amore è” - YouTube...
+--------------------
+[BREAK] Source Line ~1642
+Prev: ...Enrico Nigiotti & Matilde Gioli «L`amore è” - YouTube
+Next: Warum er diesen Schmerz nur immer wieder aufflammen liess. E...
+--------------------
+[BREAK] Source Line ~1648
+Prev: ...nd immer. Dachten sie und waren sich sicher. Zu dieser Zeit.
+Next: Der Song blieb der Einzige, den Giorgia mitsang. Und auch nu...
+--------------------
+[BREAK] Source Line ~1655
+Prev: ...erschwunden. Zeitgleich mit der sich nähernden Unsicherheit.
+Next: Der sonnengetränkte Tag schmerzte im scharfen Kontrast zu Lo...
+--------------------
+[BREAK] Source Line ~1660
+Prev: ...es Wesen schien in seinem Kopf festgezurrt, zusammengeklebt.
+Next: Louis hielt sich den Kopf, schloss die Augen und presste sei...
+--------------------
+[BREAK] Source Line ~1664
+Prev: ...donnert war, darin wieder und wieder seine Rolle zu spielen.
+Next: Inzwischen war er mit energischen Schritten gut vorangekomme...
+--------------------
+[BREAK] Source Line ~1671
+Prev: ...nke in Louis begann sich zu heben. Das  mussten Profis sein.
+Next: Bruce Springsteen «If I Should Fall Behind”...
+--------------------
+[BREAK] Source Line ~1699
+Prev: ...Bruce Springsteen «If I Should Fall Behind”
+Next: 20...
+--------------------
+[BREAK] Source Line ~1703
+Prev: ...20
+Next: Die Leute begannen sich verhalten zu bewegen. Kinder spritzt...
+--------------------
+[BREAK] Source Line ~1706
+Prev: ...sik war Nachhausekommen. Wenigstens darauf konnte er zählen.
+Next: Auf die Steigerung durch die Zweistimmigkeit der beiden war ...
+--------------------
+[BREAK] Source Line ~1708
+Prev: ...und ihre umwerfenden Stimmen. Wie sie sich dabei anschauten.
+Next: «Ich werde auf dich warten. Und sollte ich zurückbleiben, wa...
+--------------------
+[BREAK] Source Line ~1711
+Prev: ...Die Worte stimmten Louis wehmütig.
+Next: Der Beifall nahm den Platz breit ein. Kinder hüpften hoch. D...
+--------------------
+[BREAK] Source Line ~1715
+Prev: ...einzupacken. Nach und nach schlenderten die Menschen weiter.
+Next: Louis ging näher auf sie zu. Er blieb verzaubert vor ihnen s...
+--------------------
+[BREAK] Source Line ~1762
+Prev: ...rage liess Louis die Augen aufreissen und er nickte schnell.
+Next: Vollgepackt zirkelten die drei zwischen Menschengruppen quer...
+--------------------
+[BREAK] Source Line ~1779
+Prev: ...n Handbewegung  steckte sie sich einen Kaugummi in den Mund.
+Next: Der Bus sollte die beiden in ihr neues Leben führen. Im wahr...
+--------------------
+[BREAK] Source Line ~1788
+Prev: ...Meo zwinkerte zu Louis hinüber.
+Next: Patent Ochsner «Scharlachrot»...
+--------------------
+[BREAK] Source Line ~1790
+Prev: ...Patent Ochsner «Scharlachrot»
+Next: Die letzten Takte wurden ausgeblendet. Ausgerechnet jetzt. L...
+--------------------
+[BREAK] Source Line ~1803
+Prev: ...Meo nickte und drehte am entsprechenden Knopf.
+Next: «...wie vor ungeklärt. Die sechsundzwanzigjährige Frau stürz...
+--------------------
+[BREAK] Source Line ~1809
+Prev: ...Dann folgte eine direkte Telefonnummer.
+Next: Louis war, als höre er das Schlagen seines Herzens von ausse...
+--------------------
+[BREAK] Source Line ~1832
+Prev: ...Die beiden blieben unverändert.
+Next: Was folgte, konnte Louis kaum fassen....
+--------------------
+[BREAK] Source Line ~1862
+Prev: ...ne Zeit, seinen Gedanken nachzuhängen. Sie waren angekommen.
+Next: 21...
+--------------------
+[BREAK] Source Line ~1866
+Prev: ...21
+Next: Urdorf (CH), Samstag, 25. August...
+--------------------
+[BREAK] Source Line ~1868
+Prev: ...Urdorf (CH), Samstag, 25. August
+Next: Der Sommerabend mit Meos Familie hatte sich zu aneinanderger...
+--------------------
+[BREAK] Source Line ~1877
+Prev: ... Hauptberuflich als Musiker. Es war höchstens eine Teillüge.
+Next: Mit einem Mal waren alle beschäftigt. Ein eingespieltes Team...
+--------------------
+[BREAK] Source Line ~1900
+Prev: ...enspiel würde ihn gegen ungemütliche Situationen abschirmen.
+Next: Bruce Springsteen «You never can tell”...
+--------------------
+[BREAK] Source Line ~1904
+Prev: ...Bruce Springsteen «You never can tell”
+Next: Während Louis schliesslich den Risotto auf die Teller anrich...
+--------------------
+[BREAK] Source Line ~1908
+Prev: ...nd ganz unten sah er einen Aufruf, eingerahmt hervorgehoben:
+Next: «Dringend Zusenn für Alp und Schafschur gesucht ab sofort bi...
+--------------------
+[BREAK] Source Line ~1911
+Prev: ...Unten folgten eine Adresse und eine Handynummer.
+Next: Louis las die Angaben wieder und wieder. Er wollte sie sich ...
+--------------------
+[BREAK] Source Line ~1935
+Prev: ...Stimme zu ihnen ins Zimmer. Sie übertönte B.B. Kings Gesang.
+Next: B. B. King “The Thrill Is Gone”...
+--------------------
+[BREAK] Source Line ~1940
+Prev: ...B. B. King “The Thrill Is Gone”
+Next: «Meo, Poulet für dich?»...
+--------------------
+[BREAK] Source Line ~1964
+Prev: ...r wohligen Abendwärme eingelullt. Er war an einem guten Ort.
+Next: Die Gespräche blieben unverfänglich. Selbst wenn Louis immer...
+--------------------
+[BREAK] Source Line ~1980
+Prev: ... lehnte sich interessiert über den Tisch in Louis` Richtung.
+Next: 22...
+--------------------
+[BREAK] Source Line ~1984
+Prev: ...22
+Next: «Ey, Leute, jetzt müssen wir anfangen, sonst wird`s zu spät,...
+--------------------
+[BREAK] Source Line ~1990
+Prev: ...on,» sie verrührte die Hände, «den können wir nicht ändern.»
+Next: Sie waren bereits alle aufgestanden. Louis` Herz klopfte wil...
+--------------------
+[BREAK] Source Line ~1997
+Prev: ...inem imposanten Lindenbaum, der den Garten gütig dominierte.
+Next: Da war sie also, seine neue Gitarre. Diesmal eine Gibson. We...
+--------------------
+[BREAK] Source Line ~2001
+Prev: ...ück. Meos Familie war ihm ein reiner, praller Glücksbringer.
+Next: Der Abend wurde zu einem musikalischen Highlight. Keiner hat...
+--------------------
+[BREAK] Source Line ~2005
+Prev: ...Meo und Vanessa war das Gitarrensolo bekannt.
+Next: Giorgia hatte es Louis eines Abends abgespielt und ausufernd...
+--------------------
+[BREAK] Source Line ~2011
+Prev: ...iel Übung, das Stück hinzubekommen. Er wollte ihr Held sein.
+Next: Louis sass in ihrer Mitte. Sie legten ihre Instrumente zur S...
+--------------------
+[BREAK] Source Line ~2014
+Prev: ...ihn und die Gitarre. Inmitten von friedvoller Zeitlosigkeit.
+Next: Isaac Albeniz, Simon Dinnigan  «Asturias» (Leyenda)...
+--------------------
+[BREAK] Source Line ~2018
+Prev: ...Isaac Albeniz, Simon Dinnigan  «Asturias» (Leyenda)
+Next: Louis schaute hoch. Die drei starrten ihn ungläubig an. Dann...
+--------------------
+[BREAK] Source Line ~2023
+Prev: ...Dann klatschten sie alle ein zweites Mal.
+Next: Später hatte Louis schliesslich nur noch gestaunt, als Meo s...
+--------------------
+[BREAK] Source Line ~2029
+Prev: ...rgias Bild vor ihm auf. Mein Gott, Giorgia, was war mit ihr?
+Next: Es war noch dunkel, als Louis die Augen öffnete. Es hatte ge...
+--------------------
+[BREAK] Source Line ~2032
+Prev: ...reit gelegt. Er brauchte nur noch in die Kleider zu steigen.
+Next: Die nahegelegene Tankstelle in Urdorf war rund um die Uhr ge...
+--------------------
+[BREAK] Source Line ~2046
+Prev: ... ein Zittern über. Er presste seine Arme nahe an den Körper.
+Next: Damals. Fribourg. Neun....
+--------------------
+[BREAK] Source Line ~2061
+Prev: ...Louis` Hände zittern immer noch. Er kann nichts dagegen tun.
+Next: Unzählige Male hatte es Louis geschafft. Hatte er sich Vater...
+--------------------
+[BREAK] Source Line ~2099
+Prev: ...Von diesem Tag an wurde es schwieriger.
+Next: 23...
+--------------------
+[BREAK] Source Line ~2103
+Prev: ...23
+Next: Zürich (CH), Samstag, 25. August...
+--------------------
+[BREAK] Source Line ~2105
+Prev: ...Zürich (CH), Samstag, 25. August
+Next: Nichts wird passieren....
+--------------------
+[BREAK] Source Line ~2141
+Prev: ...Seine Erregung legte sich mit dem Gehen.
+Next: Das wenige Wasser der Sihl zog langsam neben ihm her. Im ers...
+--------------------
+[BREAK] Source Line ~2148
+Prev: ...mpfunden. Die Menschen zogen von allen Seiten an ihm vorbei.
+Next: Damals, Mailand. Dreizehn....
+--------------------
+[BREAK] Source Line ~2155
+Prev: ... als er dem Direktor zusieht,  wie der gegen die Wand läuft.
+Next: Bewegungslos schwer stand Louis schliesslich vor der grossen...
+--------------------
+[BREAK] Source Line ~2182
+Prev: ...r Frühaufsteherin. Er hoffte inbrünstig, sie möge wach sein.
+Next: 24...
+--------------------
+[BREAK] Source Line ~2186
+Prev: ...24
+Next: «Hallo?» klang es nach viermaligem Klingeln aus Louis` Handy...
+--------------------
+[BREAK] Source Line ~2210
+Prev: ... Akku, ich melde mich, Maman,» und Louis beendete den Anruf.
+Next: Er glitt langsam der Wand entlang nach unten, legte das Hand...
+--------------------
+[BREAK] Source Line ~2216
+Prev: ...Ach, es war, wie es war.
+Next: Louis stand bereits auf dem Bahnsteig, als der Zug in den Sa...
+--------------------
+[BREAK] Source Line ~2255
+Prev: ...s auf dem Bahnsteig, als der Zug in den Sackbahnhof einfuhr.
+Next: 25...
+--------------------
+[BREAK] Source Line ~2259
+Prev: ...25
+Next: Bern (CH), Samstag, 25. August...
+--------------------
+[BREAK] Source Line ~2261
+Prev: ...Bern (CH), Samstag, 25. August
+Next: Zürich-Bern-Brig-Betten Talstation war auf das Papier gedruc...
+--------------------
+[BREAK] Source Line ~2269
+Prev: ... Meos Mutter hatte mit den Fingern den Takt dazu geschnippt.
+Next: «Deine Stimme gefällt mir am besten, wenn du spanisch singst...
+--------------------
+[BREAK] Source Line ~2277
+Prev: .... Und dankbar daran, dass sie tatsächlich nichts mehr sagte.
+Next: Louis schloss die Augen. Er versuchte das Sax-Solo von Meos ...
+--------------------
+[BREAK] Source Line ~2281
+Prev: ...ungen  schaukelten Louis hin und her. Er döste vor sich hin.
+Next: Pablo Alborán «Pasos de cero»...
+--------------------
+[BREAK] Source Line ~2285
+Prev: ...Pablo Alborán «Pasos de cero»
+Next: Bis ihn der Schwere anstupste. Louis fuhr hoch. Dann schaute...
+--------------------
+[BREAK] Source Line ~2289
+Prev: ...lltreppe nach oben. Ungeordnet noch. Er brauchte Tageslicht.
+Next: Marco war ihm über all die Jahre zu einem verlässlichen Freu...
+--------------------
+[BREAK] Source Line ~2298
+Prev: ... hatte doch mit ihm abgeschlossen. Vor Jahren und endgültig.
+Next: Damals. Fribourg, sechs....
+--------------------
+[BREAK] Source Line ~2322
+Prev: ...hmen Gummibärchen. Es läuft besser. Der Vater ist zufrieden.
+Next: Louis setzte seine Flasche an. Das Wasser rann ihm kühl den ...
+--------------------
+[BREAK] Source Line ~2360
+Prev: .... Piep, piep, piep. Louis senkte das Handy und ärgerte sich.
+Next: 26...
+--------------------
+[BREAK] Source Line ~2364
+Prev: ...26
+Next: Bettmeralp/VS (CH)...
+--------------------
+[BREAK] Source Line ~2366
+Prev: ...Bettmeralp/VS (CH)
+Next: Durchhalten. Der zweite Anlauf musste ein paar Minuten warte...
+--------------------
+[BREAK] Source Line ~2371
+Prev: ...Louis bemühte sich Elena gegenüber fortan um Grosszügigkeit.
+Next: Louis ging ein paar Schritte und liess sich auf eine Betonba...
+--------------------
+[BREAK] Source Line ~2376
+Prev: ...uch. Zwischendurch aufgestanden, ging er erneut in die Knie.
+Next: «Pronto.»...
+--------------------
+[BREAK] Source Line ~2407
+Prev: ...«Ciao, Louis, und pass verdammt nochmal auf dich auf.»
+Next: Louis erhob sich umständlich. Seine Beine waren steif. Er sc...
+--------------------
+[BREAK] Source Line ~2412
+Prev: ...ufzutreten. Die Premiere wenigstens war bereits überstanden.
+Next: «Sorry, sorry.»...
+--------------------
+[BREAK] Source Line ~2428
+Prev: ... weitermachen. Und wusste nicht, was er sich zurufen sollte.
+Next: Als hätte er sie auf ewig gespeichert, fühlte er Grossvaters...
+--------------------
+[BREAK] Source Line ~2433
+Prev: ...augenblicklich zurück in dieses Hochgefühl vergangener Zeit.
+Next: Marc-Antoine Charpentier «Te Deum, H.146: I. Prélude, Rondea...
+--------------------
+[BREAK] Source Line ~2438
+Prev: ...(Eurovision Song Contest logo 1957-2010)
+Next: Louis vertiefte sich in einen Artikel nach dem andern, währe...
+--------------------
+[BREAK] Source Line ~2455
+Prev: ...essen. Ihr Platz war leer. Ihren Ausstieg hatte er verpasst.
+Next: 27...
+--------------------
+[BREAK] Source Line ~2459
+Prev: ...27
+Next: Samstag, 25. August...
+--------------------
+[BREAK] Source Line ~2461
+Prev: ...Samstag, 25. August
+Next: Hastig überflog Louis die Köpfe der Reisenden bis nach vorne...
+--------------------
+[BREAK] Source Line ~2467
+Prev: ...r vorläufig aufgegangen. Das Eurovisions-Signet hallte nach.
+Next: Endlich stand er am Fusse der Bettmeralp. Er blickte den Hüg...
+--------------------
+[BREAK] Source Line ~2473
+Prev: ... in diese Stille zu flüchten. Und ob er sie aushalten würde.
+Next: Damals, Fribourg, neun....
+--------------------
+[BREAK] Source Line ~2482
+Prev: ... Er will vor ihr, und überhaupt als Erster, am Tisch sitzen.
+Next: Louis zog seinen letzten Geldschein aus der Hosentasche und ...
+--------------------
+[BREAK] Source Line ~2485
+Prev: ...echenden Gebäudes. Volg stand auf einem Schild über der Tür.
+Next: Die Einkaufstüte vor sich hintragend ging er weiter, als ihm...
+--------------------
+[BREAK] Source Line ~2491
+Prev: ...Linie aber sehnte er sich nach Zeit mit seiner neuen Gibson.
+Next: Die Gitarren und Grandpères altes Klavier hatten ihn immer w...
+--------------------
+[BREAK] Source Line ~2502
+Prev: ...aten und einigem davor. Kaum gedacht, sah er Marco vor sich.
+Next: Louis schaute sich um, blieb stehen und senkte das Handy. Di...
+--------------------
+[BREAK] Source Line ~2505
+Prev: ...ntinas Gedanken hatten ihn auch immer mal wieder überrascht.
+Next: Louis schloss die Augen und versuchte, sich entschieden Ciro...
+--------------------
+[BREAK] Source Line ~2518
+Prev: ...Blick ins Leere verharrte er im Stehen. Bis zum letzten Ton.
+Next: Hollow Coves «These Memories”...
+--------------------
+[BREAK] Source Line ~2522
+Prev: ...Hollow Coves «These Memories”
+Next: Dann hielt er nach einem Schatten spendenden Platz Ausschau....
+--------------------
+[BREAK] Source Line ~2564
+Prev: ...or er sich neuen Menschen aussetzte, musste er sich sammeln.
+Next: 28...
+--------------------
+[BREAK] Source Line ~2568
+Prev: ...28
+Next: Das Gebiet präsentierte sich wie eine neu errichtete Theater...
+--------------------
+[BREAK] Source Line ~2587
+Prev: ...Die Pause unter den Bäumen hatte seine Batterien aufgeladen.
+Next: 29...
+--------------------
+[BREAK] Source Line ~2591
+Prev: ...29
+Next: «Sunnewaid», Bettmeralp/VS (CH)...
+--------------------
+[BREAK] Source Line ~2593
+Prev: ...«Sunnewaid», Bettmeralp/VS (CH)
+Next: Es war frischer geworden. Eine  vage Andeutung von Herbst la...
+--------------------
+[BREAK] Source Line ~2601
+Prev: ...d er den Anfang des Refrains. «Je te laisserai des mots» *1.
+Next: Patrick Watson «Je te laisserai des mots»...
+--------------------
+[BREAK] Source Line ~2604
+Prev: ...Patrick Watson «Je te laisserai des mots»
+Next: Er blieb stehen. Knapp versteckt hinter dem Birnbaum, dem ei...
+--------------------
+[BREAK] Source Line ~2608
+Prev: ...zu schön war, um aufzuhören. Wenn am Ende die Leere lauerte.
+Next: Wenige Meter abseits auf einem Schotterweg, der zum Haus füh...
+--------------------
+[BREAK] Source Line ~2610
+Prev: ...die wechselnden, formschönen Oldtimer in Vaters Auto-Garage.
+Next: Jetzt tauchte ein Mann im Türrahmen auf. Er kam die drei Tre...
+--------------------
+[BREAK] Source Line ~2652
+Prev: ...uf das Paar zu. Sie hatten sich in seine Richtung umgedreht.
+Next: 30...
+--------------------
+[BREAK] Source Line ~2656
+Prev: ...30
+Next: Der Blick in ihre Gesichter löste Louis` Unsicherheit....
+--------------------
+[BREAK] Source Line ~2731
+Prev: ...hen Stimme setzte ein Saxofon ein. Männlicher Gesang folgte.
+Next: Taxi «Campari Soda»...
+--------------------
+[BREAK] Source Line ~2735
+Prev: ...Taxi «Campari Soda»
+Next: Die Stimme  hörte sich abgeklärt an. Louis kannte den Song n...
+--------------------
+[BREAK] Source Line ~2757
+Prev: ... Bewegungen auf einen Stuhl am Tischende verschwinden liess.
+Next: 31...
+--------------------
+[BREAK] Source Line ~2761
+Prev: ...31
+Next: Jetzt hoben sie ihre Gläser und prosteten sich zu. Erst zu d...
+--------------------
+[BREAK] Source Line ~2785
+Prev: ...s Rätsel lösen würde. Louis sank entspannt in sich zusammen.
+Next: Lilian Renaud avec les 2`000 Choristes “L` encre de tes yeux...
+--------------------
+[BREAK] Source Line ~2789
+Prev: ...ud avec les 2`000 Choristes “L` encre de tes yeux” - YouTube
+Next: In Überraschung gefangen, war Louis` Blick auf Manuela liege...
+--------------------
+[BREAK] Source Line ~2838
+Prev: ...«Mm, och, Joh, Mensch, hab ich Hunger.»
+Next: 32...
+--------------------
+[BREAK] Source Line ~2842
+Prev: ...32
+Next: Von fern erklang das Schlagen von Kirchenglocken....
+--------------------
+[BREAK] Source Line ~2858
+Prev: ...ke bis dicht ans Kinn hoch und fiel in den ersehnten Schlaf.
+Next: Es ist eiskalt. Festgepresster Schnee hat die Umgebung zuged...
+--------------------
+[BREAK] Source Line ~2864
+Prev: ...Dann, der Schrei.
+Next: Louis erwachte. Nass vor Schweiss, als wäre er in einem Feue...
+--------------------
+[BREAK] Source Line ~2895
+Prev: ... Er hoffte, den Schrei nicht wirklich ausgestossen zu haben.
+Next: 33...
+--------------------
+[BREAK] Source Line ~2899
+Prev: ...33
+Next: Sonntag, 26. August...
+--------------------
+[BREAK] Source Line ~2901
+Prev: ...Sonntag, 26. August
+Next: Im Haus war es still....
+--------------------
+[BREAK] Source Line ~2907
+Prev: ...Schliesslich schlief er knapp vor Sonnenaufgang wieder ein.
+Next: Es war nach zehn, als ihn das Licht weckte. Der Tag streute ...
+--------------------
+[BREAK] Source Line ~2910
+Prev: ...lieb wohl nichts verborgen. Der Gedanke liess ihn schaudern.
+Next: Jon Lord & Steve Lee “ CHILD IN TIME “...
+--------------------
+[BREAK] Source Line ~2914
+Prev: ...Jon Lord & Steve Lee “ CHILD IN TIME “
+Next: Als Louis die Treppe hinuntergestiegen in der Küche stand, f...
+--------------------
+[BREAK] Source Line ~2948
+Prev: ...«Dann führ ich dich doch mal durch Haus und Scheune, ja?»
+Next: Louis folgte Joh die Treppe hinauf ins Obergeschoss. Beim Ho...
+--------------------
+[BREAK] Source Line ~2996
+Prev: ...hst mich neugierig. Und wie hast du sie denn kennengelernt?»
+Next: 34...
+--------------------
+[BREAK] Source Line ~3000
+Prev: ...34
+Next: Louis` Frage schien Joh im ersten Moment zu erstaunen. Mit B...
+--------------------
+[BREAK] Source Line ~3018
+Prev: ...«Sehr gern, ja.»
+Next: Erleichtert stieg Louis die Treppe hoch. Dieses kleine Timeo...
+--------------------
+[BREAK] Source Line ~3065
+Prev: ...gias Schicksal freuen oder wäre es besser, nichts zu finden.
+Next: 35...
+--------------------
+[BREAK] Source Line ~3069
+Prev: ...35
+Next: Louis klickte sich durch die angezeigten Artikel. Dann, unte...
+--------------------
+[BREAK] Source Line ~3071
+Prev: ...bwechselnd heiss und kalt. Er schluckte und begann zu lesen.
+Next: Zeugenaufruf «Roccia del Culto», Milano, 25. August...
+--------------------
+[BREAK] Source Line ~3078
+Prev: ...eine Telefonnummer, oder an jede andere Polizeidienststelle.
+Next: Phua. Nichts Neues zwar, doch diesmal schwarz auf weiss vor ...
+--------------------
+[BREAK] Source Line ~3083
+Prev: ...rven. Es hörte sich frech an. Als lache es ihn geradezu aus.
+Next: Lo & Leduc «079»...
+--------------------
+[BREAK] Source Line ~3086
+Prev: ...Lo & Leduc «079»
+Next: Schwer verletzt, von der Feuerwehr geborgen? Die Information...
+--------------------
+[BREAK] Source Line ~3126
+Prev: ...stens fällig und anderes mehr. Er mochte nicht daran denken.
+Next: 36...
+--------------------
+[BREAK] Source Line ~3130
+Prev: ...36
+Next: Joh sass mit einem Kugelschreiber in der Hand über Papiere g...
+--------------------
+[BREAK] Source Line ~3141
+Prev: ...Louis grinste zurück.
+Next: Die folgende Stunde gehörte Louis` Arbeitsvertrag. Mit sachl...
+--------------------
+[BREAK] Source Line ~3159
+Prev: ...haden, würde den beiden dieser falsche Pass nicht. Wie auch.
+Next: Im Anschluss bat Joh Louis in den Vorraum des Stalls. Louis ...
+--------------------
+[BREAK] Source Line ~3175
+Prev: ...tand am Anfang eines neuen Weges. Abzweigungen gab es keine.
+Next: Mit dem Eintreten in die Schäferloft schien die zurückgelass...
+--------------------
+[BREAK] Source Line ~3179
+Prev: ...Joh hatte überschwänglich geklungen.
+Next: Ein Bein angewinkelt sass Louis schliesslich auf der Bettkan...
+--------------------
+[BREAK] Source Line ~3194
+Prev: ...Es war weit gravierender. Sie hatte seine Würde mitgenommen.
+Next: 37...
+--------------------
+[BREAK] Source Line ~3198
+Prev: ...37
+Next: Der Abend hätte angespannt und anstrengend verlaufen können....
+--------------------
+[BREAK] Source Line ~3209
+Prev: ...igt. Und er hatte wieder freie Sicht. Es fühlte sich gut an.
+Next: In Louis hatten sie einen aufmerksamen Zuhörer. Er musste si...
+--------------------
+[BREAK] Source Line ~3230
+Prev: ...erkte Manuelas glasige Augen. Sie wirkte auffallend angetan.
+Next: Music Travel Love (Passenger) «Let her go»...
+--------------------
+[BREAK] Source Line ~3233
+Prev: ...Music Travel Love (Passenger) «Let her go»
+Next: Joh klatschte, nachdem Louis die Gitarre abgestellt hatte. D...
+--------------------
+[BREAK] Source Line ~3261
+Prev: ...e kennenzulernen, zu wachsen, im besten Fall,» ergänzte Joh.
+Next: Louis erinnerte sich an die ersten Stunden auf der Sunnewaid...
+--------------------
+[BREAK] Source Line ~3297
+Prev: ...sich steigerndes, wuchtiges Beben durch seinen Körper trieb.
+Next: Ricardo Arjona “APNEA”...
+--------------------
+[BREAK] Source Line ~3301
+Prev: ...Ricardo Arjona “APNEA”
+Next: Louis` Barriere brach zum Ende des Songs. Einer Dammsprengun...
+--------------------
+[BREAK] Source Line ~3352
+Prev: ...jedenfalls geraume Zeit in der Küche herumhantiert zu haben.
+Next: 38...
+--------------------
+[BREAK] Source Line ~3356
+Prev: ...38
+Next: Montag, 27. August...
+--------------------
+[BREAK] Source Line ~3358
+Prev: ...Montag, 27. August
+Next: Louis wachte auf. Von draussen hörte er das helle Schellen v...
+--------------------
+[BREAK] Source Line ~3363
+Prev: ...Heute wollte er Maman anrufen.
+Next: Beim Betreten des Küchenbereichs fiel Louis am Ende der Trep...
+--------------------
+[BREAK] Source Line ~3374
+Prev: ...anderer Schrift notiert, «vorausgesetzt man kann schwimmen».
+Next: Mit der Tasse in der Hand stellte sich Louis in den Türrahme...
+--------------------
+[BREAK] Source Line ~3410
+Prev: ...39
+Next: Louis kam mit Block und Schreibzeug aus seinem Zimmer die Tr...
+--------------------
+[BREAK] Source Line ~3427
+Prev: ...tzt auf seine Hände, die unkontrolliert zu zittern anfingen.
+Next: Michel Pépé: «Le Mantra du Coeur»...
+--------------------
+[BREAK] Source Line ~3431
+Prev: ...Michel Pépé: «Le Mantra du Coeur»
+Next: Louis stand auf, ging taumelnd rückwärts und beendete das St...
+--------------------
+[BREAK] Source Line ~3433
+Prev: ...s Stück, bevor er  sich auf den Vorplatz des Hauses rettete.
+Next: Manuela schaute irritiert zu Louis hoch, liess ein Frottiert...
+--------------------
+[BREAK] Source Line ~3466
+Prev: ...ckartig aufstand. Sie sah genauso freundlich aus wie vorher.
+Next: 40...
+--------------------
+[BREAK] Source Line ~3470
+Prev: ...40
+Next: Damals, Fribourg, fünf....
+--------------------
+[BREAK] Source Line ~3483
+Prev: ...eichbar. Sie ist, angelehnt an Vater, einfach eingeschlafen.
+Next: Louis ging in die Küche hoch und goss sich Wasser in die Tri...
+--------------------
+[BREAK] Source Line ~3485
+Prev: ...ch gejagt. Und der Ablauf sich ein aufs neue Mal wiederholt.
+Next: Die Karatekleidung hatte Maman eines Tages im Keller verschw...
+--------------------
+[BREAK] Source Line ~3489
+Prev: ...ouis die Nachmittage überleben lassen. Bis er den Arm brach.
+Next: Louis massierte sich die Schläfen. Wie es Maman nur gelungen...
+--------------------
+[BREAK] Source Line ~3499
+Prev: ...mer geworfen und die Wohnung mit einem Türknallen verlassen.
+Next: Wie weit unten Louis die Ereignisse schon versteckt hielt, ü...
+--------------------
+[BREAK] Source Line ~3518
+Prev: ...ie Frage hatte er sich schon sehr lange nicht mehr gestellt.
+Next: 41...
+--------------------
+[BREAK] Source Line ~3522
+Prev: ...41
+Next: Louis verliess das Haus über den nördlichen Hofeingang und  ...
+--------------------
+[BREAK] Source Line ~3529
+Prev: ...Louis fand eine Konzertversion. Und begann dazu zu lesen.
+Next: Haevn «The Sea»...
+--------------------
+[BREAK] Source Line ~3533
+Prev: ...Haevn «The Sea»
+Next: Mit einer Fülle angelesenen Wissens streckte er sich. Er füh...
+--------------------
+[BREAK] Source Line ~3538
+Prev: ...Hunde mussten für Schafhirten eine zentrale Bedeutung haben.
+Next: Das spezielle Flair des schmalen Platzes hatte es Louis ange...
+--------------------
+[BREAK] Source Line ~3566
+Prev: ...t auch, welche ganz konkreten Aufgaben ihm zugeteilt wurden.
+Next: 42...
+--------------------
+[BREAK] Source Line ~3570
+Prev: ...42
+Next: Louis hob den bepackten Rucksack vom Bett. Manuela hatte ihm...
+--------------------
+[BREAK] Source Line ~3576
+Prev: ...achte er, musste Schluss damit sein, ihr Sorgen zu bereiten.
+Next: Beim dritten Versuch nahm sie den Anruf entgegen....
+--------------------
+[BREAK] Source Line ~3620
+Prev: ...Damit war der Anruf beendet.
+Next: Louis streckte die Arme von sich. Das Gespräch war gut gelau...
+--------------------
+[BREAK] Source Line ~3666
+Prev: ...aute sich im Spiegel in die Augen, «was kommt als Nächstes?»
+Next: 43...
+--------------------
+[BREAK] Source Line ~3670
+Prev: ...43
+Next: «Roccia del Culto», Mailand (IT), Montag, 20. August...
+--------------------
+[BREAK] Source Line ~3673
+Prev: ...«Roccia del Culto», Mailand (IT), Montag, 20. August
+Next: Ihr Kopf fiel ihr in den Nacken, schnellte zurück und währen...
+--------------------
+[BREAK] Source Line ~3675
+Prev: ... sie hier eigentlich? Ihr Fuss stach ins Leere. Federleicht.
+Next: Sie riss ihre Augen entgeistert auf. Nichts als Raum umgab s...
+--------------------
+[BREAK] Source Line ~3678
+Prev: ...henden Steinkante hart aufschlug. Es wurde dunkel und still.
+Next: Peter Gabriel «The Feeling Begins”...
+--------------------
+[BREAK] Source Line ~3682
+Prev: ...Peter Gabriel «The Feeling Begins”
+Next: Sie empfand einzig friedvolle Unendlichkeit, die sie aufhob ...
+--------------------
+[BREAK] Source Line ~3684
+Prev: ...ich, Hand in Hand, ohne sich umzusehen, jetzt und auf lange.
+Next: Sie fiel und fiel, leicht und zeitlos, und weit....
+--------------------
+[BREAK] Source Line ~3686
+Prev: ...Sie fiel und fiel, leicht und zeitlos, und weit.
+Next: Auf einer formschönen, alten Akazie blieb sie regungslos lie...
+--------------------
+[BREAK] Source Line ~3688
+Prev: ...ls läge sie in unnatürlicher Stellung am Rande eines Bettes.
+Next: Unter ihr führte ein schmaler Pfad quer der Felswand entlang...
+--------------------
+[BREAK] Source Line ~3698
+Prev: ...Es duftete nach italienischer Spätsommernacht.
+Next: 44...
+--------------------
+[BREAK] Source Line ~3702
+Prev: ...44
+Next: Mehrere Polizeisirenen zerrissen kurz vor halb fünf die Nach...
+--------------------
+[BREAK] Source Line ~3711
+Prev: ...o der diensthabende Kollege sass, oder, hätte sitzen sollen.
+Next: Commissario Alessandro Mantovani und ein weiterer Polizist b...
+--------------------
+[BREAK] Source Line ~3724
+Prev: ...Mantovani und die andern Anwesenden atmeten auf.
+Next: 45...
+--------------------
+[BREAK] Source Line ~3729
+Prev: ...45
+Next: Der diensthabende Arzt auf der Notfallstation des Ospedale k...
+--------------------
+[BREAK] Source Line ~3731
+Prev: ...en Befunde. Dabei hatte er ununterbrochen sein Handy am Ohr.
+Next: «Nein, leider nicht. Kein Handy, keine Tasche, nichts, wir h...
+--------------------
+[BREAK] Source Line ~3741
+Prev: ...k, danke, ich bin gegen 10:00 Uhr in der Quästur, bis dann.»
+Next: «Es sieht klar nach Sturz aus,» begann der Arzt. Er sah jung...
+--------------------
+[BREAK] Source Line ~3757
+Prev: ...h er sah geschafft aus. Er reichte dem Commissario die Hand.
+Next: Mantovani zückte sein Handy und tippte die Informationen ein...
+--------------------
+[BREAK] Source Line ~3796
+Prev: ... ihm ein, dass heute seine jüngste Enkelin Geburtstag hatte.
+Next: 46...
+--------------------
+[BREAK] Source Line ~3800
+Prev: ...46
+Next: Dienstag, 21. August...
+--------------------
+[BREAK] Source Line ~3802
+Prev: ...Dienstag, 21. August
+Next: Der ordentliche Arbeitsmorgen war bereits ein paar Stunden a...
+--------------------
+[BREAK] Source Line ~3856
+Prev: ...en. An denen hatten sich schon andere die Zähne ausgebissen.
+Next: 47...
+--------------------
+[BREAK] Source Line ~3860
+Prev: ...47
+Next: Bettmeralp/VS (CH), Montag, 27. August...
+--------------------
+[BREAK] Source Line ~3862
+Prev: ...Bettmeralp/VS (CH), Montag, 27. August
+Next: «Du hast dich selbst übertroffen, Joh.»...
+--------------------
+[BREAK] Source Line ~3873
+Prev: ...t, wie lästig es sich anfühlen konnte, ausgefragt zu werden.
+Next: Zum Nachtisch setzten sie sich gemeinsam in die Sofaecke....
+--------------------
+[BREAK] Source Line ~3935
+Prev: ...Die Küche räumten sie zu dritt auf.
+Next: 48...
+--------------------
+[BREAK] Source Line ~3939
+Prev: ...48
+Next: Dienstag, 28. August...
+--------------------
+[BREAK] Source Line ~3941
+Prev: ...Dienstag, 28. August
+Next: Es war kurz nach halb sieben....
+--------------------
+[BREAK] Source Line ~3946
+Prev: ...e zwei Stunden gehen müssen, um die Sennhütten zu erreichen.
+Next: Oben angekommen stiegen sie aus der Gondel. Sie halfen sich ...
+--------------------
+[BREAK] Source Line ~3958
+Prev: ...n Blick immer wieder bedächtig vom Boden zum Himmel gleiten.
+Next: Schliesslich war der Abstieg geschafft. Joh und Manuela legt...
+--------------------
+[BREAK] Source Line ~4019
+Prev: ...erschwinden. Er ging in die Knie und griff nach einer Birne.
+Next: 49...
+--------------------
+[BREAK] Source Line ~4023
+Prev: ...49
+Next: Auf der Alp, Bettmeralp/VS (CH), Mittwoch, 29. August...
+--------------------
+[BREAK] Source Line ~4025
+Prev: ...Auf der Alp, Bettmeralp/VS (CH), Mittwoch, 29. August
+Next: «Auf geht`s, ihr Lieben,» hörte Louis Joh in den weit offene...
+--------------------
+[BREAK] Source Line ~4037
+Prev: ...ela dicht hinter Joh hinauf und Louis den beiden hintennach.
+Next: «Warte, Joh,» rief Manuela eindringlich, «langsamer.»...
+--------------------
+[BREAK] Source Line ~4089
+Prev: ...te sich eine Strategie ausdenken. Bevor Schlimmeres geschah.
+Next: 50...
+--------------------
+[BREAK] Source Line ~4093
+Prev: ...50
+Next: Oben angekommen sah Louis Mazi als ersten. Sein Gesicht tauc...
+--------------------
+[BREAK] Source Line ~4161
+Prev: ...n seine rechte Seite und blieb unbeweglich neben ihm stehen.
+Next: 51...
+--------------------
+[BREAK] Source Line ~4165
+Prev: ...51
+Next: Nach einigen Hundert Metern trennten sich ihre Wege. Mazi ve...
+--------------------
+[BREAK] Source Line ~4167
+Prev: ...Abstimmung, die ihn an seine verlorene Sicherheit erinnerte.
+Next: Mit Manuela und Joh erreichte Louis endlich das kleine Holzh...
+--------------------
+[BREAK] Source Line ~4171
+Prev: ...kalisch aufzutanken und seine Bürde vorübergehend abzulegen.
+Next: Joh und Manuela wollten am späten Nachmittag absteigen. Er w...
+--------------------
+[BREAK] Source Line ~4174
+Prev: ...t war bereits  vor Giorgias Trennung zu Mangelware geworden.
+Next: Sein Blick verlor sich in den Ritzen der Holzwand. Was war e...
+--------------------
+[BREAK] Source Line ~4187
+Prev: ...echt und schnippelte weiter eine Zucchetti in kleine Stücke.
+Next: Manuelas Instruktionsidee war nicht nur informativ, sondern ...
+--------------------
+[BREAK] Source Line ~4190
+Prev: ...der ist echt schnell leer, aber darüber sprachen wir schon.»
+Next: Selbst jetzt um die späte Mittagszeit war die Sommerwärme in...
+--------------------
+[BREAK] Source Line ~4205
+Prev: ...Louis fühlte sich gerade ziemlich aufgeräumt.
+Next: 52...
+--------------------
+[BREAK] Source Line ~4209
+Prev: ...52
+Next: Gegen acht würde es eindunkeln. Bis dahin blieb Louis Zeit, ...
+--------------------
+[BREAK] Source Line ~4212
+Prev: ...em noch so kleinen Winkel hier oben bequem gemacht zu haben.
+Next: Louis atmete tief durch und betrat die Hütte. Er spülte das ...
+--------------------
+[BREAK] Source Line ~4219
+Prev: ...s Giorgia ihn mochte. Er gehörte jetzt nur ihm ganz alleine.
+Next: Àlvaro Soler «Volar»...
+--------------------
+[BREAK] Source Line ~4223
+Prev: ...Àlvaro Soler «Volar»
+Next: Es musste an dieser hochdosierten Einfachheit liegen. Louis`...
+--------------------
+[BREAK] Source Line ~4228
+Prev: ...atz hier. Mit geschlossenen Augen summte er die Melodie mit.
+Next: Àlvaro Soler «Sofia»...
+--------------------
+[BREAK] Source Line ~4232
+Prev: ...Àlvaro Soler «Sofia»
+Next: Noch während des dritten Durchlaufs sank Louis in entspannte...
+--------------------
+[BREAK] Source Line ~4234
+Prev: ...nk Louis in entspanntes Dösen und dämmerte schliesslich weg.
+Next: Mit einem Schaudern wachte er auf. Ihn fröstelte. Sein Rücke...
+--------------------
+[BREAK] Source Line ~4261
+Prev: ...nk vor dem Eingang schnappte er sich hastig seinen Pullover.
+Next: 53...
+--------------------
+[BREAK] Source Line ~4265
+Prev: ...53
+Next: Donnerstag, 30. August...
+--------------------
+[BREAK] Source Line ~4267
+Prev: ...Donnerstag, 30. August
+Next: Im kleinen Schrank neben dem Herd fand Louis eine Auswahl an...
+--------------------
+[BREAK] Source Line ~4289
+Prev: ...evor er allmählich einschlummerte, lächelte er vor sich hin.
+Next: Sting «Fragile»...
+--------------------
+[BREAK] Source Line ~4326
+Prev: ...Sting «Fragile»
+Next: 54...
+--------------------
+[BREAK] Source Line ~4330
+Prev: ...54
+Next: Das Fernglas lag im Regal unten neben dem Küchenschrank. Kur...
+--------------------
+[BREAK] Source Line ~4332
+Prev: ...in Bewegung. Der vergrösserte sich. Mazi würde bald da sein.
+Next: Louis hörte den Kaffee hochblubbern und eilte in die Hütte. ...
+--------------------
+[BREAK] Source Line ~4343
+Prev: ...«Schmeckt vorzüglich.»
+Next: Sie durchquerten die hüglige Landschaft, als Mazi seine Händ...
+--------------------
+[BREAK] Source Line ~4373
+Prev: ...rn dringend eine Studie zu Ende schreiben und rausschicken.»
+Next: Bevor sie sich Louis` Schafen in der Nähe seiner Alphütte zu...
+--------------------
+[BREAK] Source Line ~4407
+Prev: ...en Tag über Zeit, sich eine passende Geschichte auszudenken.
+Next: 55...
+--------------------
+[BREAK] Source Line ~4411
+Prev: ...55
+Next: «Der da ist Onkel Moses, unser Zuchtbock,» Mazi wies auf ein...
+--------------------
+[BREAK] Source Line ~4420
+Prev: ...«Ich freue mich auf den Abend.»
+Next: Louis trug den Nachtisch nach draussen.  Mazi hielt sich den...
+--------------------
+[BREAK] Source Line ~4434
+Prev: ...geöffnetem Mund in Louis` Gesicht. Er drückte die Playtaste.
+Next: Matthieu Chadid, Toumani Diabate, Sidiki Diabaté, Fatoumata ...
+--------------------
+[BREAK] Source Line ~4440
+Prev: ...“Manitoumani”
+Next: «Musikalisch wunderschön, gefällt mir sehr gut,» Louis legte...
+--------------------
+[BREAK] Source Line ~4445
+Prev: ...überhöhten Preise. Und am Ende war alles genauso wie vorher.
+Next: Die Sonne verschwand kurz nach acht. Mazi war im Halbdunkel ...
+--------------------
+[BREAK] Source Line ~4458
+Prev: ...s starrte die Zahlen an, erinnerte und entspannte sich. Joh.
+Next: 56...
+--------------------
+[BREAK] Source Line ~4462
+Prev: ...56
+Next: «Hi, Ciro. Alles gut bei dir?”...
+--------------------
+[BREAK] Source Line ~4484
+Prev: ...Mit dem Gedanken schloss er die Augen. Und schlief ein.
+Next: 57...
+--------------------
+[BREAK] Source Line ~4488
+Prev: ...57
+Next: Mailand (IT),  Mittwoch, 22. August...
+--------------------
+[BREAK] Source Line ~4490
+Prev: ...Mailand (IT),  Mittwoch, 22. August
+Next: «Eine harte Nuss, arrogant und verschlossen, porca miseria*1...
+--------------------
+[BREAK] Source Line ~4533
+Prev: ... der Questur wählte Sönmez die Nummer der «Scuola di Danza».
+Next: 58...
+--------------------
+[BREAK] Source Line ~4537
+Prev: ...58
+Next: Rossi löste die Krawatte, öffnete den obersten Hemdknopf und...
+--------------------
+[BREAK] Source Line ~4601
+Prev: ...«Gut, wir sehen uns um fünf.»
+Next: 59...
+--------------------
+[BREAK] Source Line ~4604
+Prev: ...59
+Next: Freitag, 31. August...
+--------------------
+[BREAK] Source Line ~4606
+Prev: ...Freitag, 31. August
+Next: «Ich weiss alles.»...
+--------------------
+[BREAK] Source Line ~4610
+Prev: ...«Ich weiss alles.»
+Next: Louis schoss hoch. Sass aufrecht im Bett und hielt seine Hän...
+--------------------
+[BREAK] Source Line ~4613
+Prev: ... ihn schwitzen liess. Es war wieder eine undefinierbare Wut.
+Next: Louis riss das kleine Dachfenster auf, streckte den Kopf hin...
+--------------------
+[BREAK] Source Line ~4617
+Prev: ...lentina. Louis schüttelte den Kopf. Was für ein irrer Traum.
+Next: Ich rufe sie an. Der Gedanke kam, während er sich anzog. Zu ...
+--------------------
+[BREAK] Source Line ~4619
+Prev: ...ntlich, dass es das wäre. Er presste die Lippen aufeinander.
+Next: Erstmal brauchte er einen Kaffee. Stark und schwarz. Dann mu...
+--------------------
+[BREAK] Source Line ~4632
+Prev: ...er sich unverzüglich auf Schaftour begeben. Er hatte zu tun.
+Next: 60...
+--------------------
+[BREAK] Source Line ~4636
+Prev: ...60
+Next: Mailand (IT), Mittwoch, 22. August...
+--------------------
+[BREAK] Source Line ~4638
+Prev: ...Mailand (IT), Mittwoch, 22. August
+Next: «Vorne weg, alle drei wirkten sehr betroffen. Und alle drei ...
+--------------------
+[BREAK] Source Line ~4691
+Prev: ...Sömnez nickte.
+Next: 61...
+--------------------
+[BREAK] Source Line ~4695
+Prev: ...61
+Next: Draussen fiel Valentina in sich zusammen. Sie nahm nicht ein...
+--------------------
+[BREAK] Source Line ~4698
+Prev: ...tte weggehen sehen. Nichts von der zurückgelassenen Gitarre.
+Next: Nach der telefonischen Vorladung der Polizei hatten sie sich...
+--------------------
+[BREAK] Source Line ~4719
+Prev: ...itarre vor sich und wie sie verloren in ihrer Wohnung stand.
+Next: 62...
+--------------------
+[BREAK] Source Line ~4723
+Prev: ...62
+Next: Auf der Alp, Bettmeralp/VS (CH), Freitag, 31. August...
+--------------------
+[BREAK] Source Line ~4725
+Prev: ...Auf der Alp, Bettmeralp/VS (CH), Freitag, 31. August
+Next: Der Tag begann und endete als Hirtentag. Die Schafe hielten ...
+--------------------
+[BREAK] Source Line ~4729
+Prev: ...Zusenn, Schafhirte oder alpiner Städter war eigentlich egal.
+Next: Er hatte sich nach dem Eindunkeln zur Hütte aufgemacht....
+--------------------
+[BREAK] Source Line ~4733
+Prev: ... die Hütte in Ordnung bringen, wie er Joh zugesichert hatte.
+Next: Wäre nicht kurz vor dem Einschlafen die Störung angeschliche...
+--------------------
+[BREAK] Source Line ~4738
+Prev: ... stutzte. Er erinnerte sich an Valentinas letzten Song-Tipp.
+Next: Es war erst vor einigen Wochen gewesen und fühlte sich doch ...
+--------------------
+[BREAK] Source Line ~4743
+Prev: ...itel. Lehnte sich zurück und steckte sich die Kopfhörer ein.
+Next: Sia «Unstoppable»...
+--------------------
+[BREAK] Source Line ~4748
+Prev: ...Sia «Unstoppable»
+Next: Mittendrin stand Louis auf. Er ging auf und ab, bis er sich ...
+--------------------
+[BREAK] Source Line ~4757
+Prev: ...das Gespräch beendet, indem sie ins Wohnzimmer gestürmt war.
+Next: Valentina. Der Gedanke an sie rettete ihn gerade. Mit welch ...
+--------------------
+[BREAK] Source Line ~4765
+Prev: ...ihe mit drei Mal der fünf am Ende. Er tippte die Nummer ein.
+Next: 63...
+--------------------
+[BREAK] Source Line ~4769
+Prev: ...63
+Next: Widererwarten scharf erklang der erste Klingelton. Louis` Kö...
+--------------------
+[BREAK] Source Line ~4771
+Prev: ...reich sein, zu wissen, was sich gerade in Mailand abspielte.
+Next: Bei der erneuten Nummerneingabe zitterten Louis` Hände. Wied...
+--------------------
+[BREAK] Source Line ~4800
+Prev: ...«Louis, ich glaub es ja nicht. Wo bist du?»
+Next: 64...
+--------------------
+[BREAK] Source Line ~4804
+Prev: ...64
+Next: «Ziemlich weit weg, Valentina, ich kann dir gerade nicht sag...
+--------------------
+[BREAK] Source Line ~4872
+Prev: ...Louis beendete den Anruf.
+Next: 65...
+--------------------
+[BREAK] Source Line ~4876
+Prev: ...65
+Next: Dem Gespräch folgten dreissig Minuten Ratlosigkeit. Seine Mü...
+--------------------
+[BREAK] Source Line ~4882
+Prev: ...Geflohen? Ja, das war er, ausser sich gewesen und abgehauen.
+Next: Valentinas  Rückruf kam pünktlich....
+--------------------
+[BREAK] Source Line ~4932
+Prev: ...«Danke, ciao. Ciao, Valentina.»
+Next: 66...
+--------------------
+[BREAK] Source Line ~4936
+Prev: ...66
+Next: Samstag, 1. September...
+--------------------
+[BREAK] Source Line ~4938
+Prev: ...Samstag, 1. September
+Next: Und vielleicht kannst du dein Leiden abkürzen, indem du dich...
+--------------------
+[BREAK] Source Line ~4941
+Prev: ...dem Hof stand anschliessend die  Zusammenarbeit mit Mazi an.
+Next: Louis schwang seinen Rucksack über die Schulter. Er lag in d...
+--------------------
+[BREAK] Source Line ~4945
+Prev: ...nden, dem er sich ein Stück weit anzuvertrauen gewagt hatte.
+Next: Der Schäfertag ähnelte dem vorangegangenen....
+--------------------
+[BREAK] Source Line ~4949
+Prev: ...h, einmal mehr, die Louis damals nicht hatte erleben wollen.
+Next: Er hatte sich taub gestellt. Giorgias Worte und  Ilarias «Gi...
+--------------------
+[BREAK] Source Line ~4951
+Prev: ... hatte das erste Mal Kritik an ihrer Zweisamkeit angebracht.
+Next: Louis wischte sich über die Augen. Er fühlte sich blitzartig...
+--------------------
+[BREAK] Source Line ~4953
+Prev: ...genüber und werfe ihm mit Wucht ihre Überzeugungen entgegen.
+Next: Sie hatte von der Suche nach Freiheit und Unabhängigkeit von...
+--------------------
+[BREAK] Source Line ~4958
+Prev: ...er sich rasch verabschiedet und ins Ristorante davongemacht.
+Next: ILaria «Giudizi universali»...
+--------------------
+[BREAK] Source Line ~4962
+Prev: ...ILaria «Giudizi universali»
+Next: Louis setzte sich neben eine Schwarznase. Das Schaf lag gemü...
+--------------------
+[BREAK] Source Line ~4985
+Prev: ...iesslich fielen sie gemeinsam in einen kurzen Mittagsschlaf.
+Next: 67...
+--------------------
+[BREAK] Source Line ~4989
+Prev: ...67
+Next: Sonntag, 2. September...
+--------------------
+[BREAK] Source Line ~4991
+Prev: ...Sonntag, 2. September
+Next: «Haallo, haallo.»...
+--------------------
+[BREAK] Source Line ~4998
+Prev: ... Gratin fertig zu backen. Mission erfüllt. Er war zufrieden.
+Next: Bald waren ihre Gesichter in Sichtweite. Schliesslich stande...
+--------------------
+[BREAK] Source Line ~5048
+Prev: ...sen erreichte ihn nun auch Mazis Stimme. Sie waren komplett.
+Next: 68...
+--------------------
+[BREAK] Source Line ~5052
+Prev: ...68
+Next: Bettmeralp/VS (CH), Montag, 3. September...
+--------------------
+[BREAK] Source Line ~5054
+Prev: ...Bettmeralp/VS (CH), Montag, 3. September
+Next: «Wie ein waschechter Schweizer siehst du nicht gerade aus,» ...
+--------------------
+[BREAK] Source Line ~5062
+Prev: ...Ava klatschte in die Hände.
+Next: Die weiteren Gespräche drehten sich um die Schafe. Um die Ar...
+--------------------
+[BREAK] Source Line ~5066
+Prev: ... Alleine der Gedanke machte ihn verrückt. Es war unheimlich.
+Next: Den Abstieg hatten sie gut gemeistert, Mazi und er. Nicht zu...
+--------------------
+[BREAK] Source Line ~5068
+Prev: ...um. Es passte. Louis war, als geniesse auch Mazi die Stille.
+Next: Louis` erster Blick in den nächsten Morgen war verblüffend a...
+--------------------
+[BREAK] Source Line ~5075
+Prev: ...69
+Next: «Ja, ich war bei Giorgias Eltern, ich wollte wissen, wie es ...
+--------------------
+[BREAK] Source Line ~5137
+Prev: ...ihr, dass sie ihn deckte. Und er wusste, dass es falsch war.
+Next: 70...
+--------------------
+[BREAK] Source Line ~5141
+Prev: ...70
+Next: Louis trat in die Hofküche und sah Mazi beim Einräumen der e...
+--------------------
+[BREAK] Source Line ~5160
+Prev: ...seine Erinnerungen nur immer wieder brachten. Es war schräg.
+Next: Damals, Fribourg, acht...
+--------------------
+[BREAK] Source Line ~5195
+Prev: ...Er wird seinem Vater erzählen, wie mutig er war.
+Next: 71...
+--------------------
+[BREAK] Source Line ~5199
+Prev: ...71
+Next: «La voilà, Pasta mit Gemüse-Nusssauce und Schweizer Bergkäse...
+--------------------
+[BREAK] Source Line ~5208
+Prev: ...` Plan ging auf. Mazi schien mit seiner Erklärung zufrieden.
+Next: Wie vereinbart, verschwand Mazi schliesslich in Manuelas Pra...
+--------------------
+[BREAK] Source Line ~5210
+Prev: ...emmungsloses Mitträllern. Lächelnd räumte er den Tisch leer.
+Next: Das Hochsteigen in die Schäferloft fühlte sich leicht an. Lo...
+--------------------
+[BREAK] Source Line ~5212
+Prev: ...dliche Kühle der Sunnewaid. Der Platz war ihm lieb geworden.
+Next: Louis lehnte sich an die Hauswand. Er wischte sich die feuch...
+--------------------
+[BREAK] Source Line ~5223
+Prev: ...ihren ganz persönlichen Dingen. Der Gedanke erschreckte ihn.
+Next: Ismael Serrano “Qué Andarás Haciendo”...
+--------------------
+[BREAK] Source Line ~5227
+Prev: ...Ismael Serrano “Qué Andarás Haciendo”
+Next: In sich versunken hatte Louis nicht wahrgenommen, dass sich ...
+--------------------
+[BREAK] Source Line ~5258
+Prev: ...ch. Er begann hektisch zu gestikulieren und sah besorgt aus.
+Next: 72...
+--------------------
+[BREAK] Source Line ~5262
+Prev: ...72
+Next: «Sofort, klar, ja natürlich, werde ich, also für die OP? Gut...
+--------------------
+[BREAK] Source Line ~5267
+Prev: ...Louis nickte und Mazi war weg.
+Next: Schluss mit Musik, Schluss mit Serrano. Louis beeilte sich, ...
+--------------------
+[BREAK] Source Line ~5269
+Prev: ...g die Treppe hinunter in die Küche und hinaus in den Garten.
+Next: Das Elektrofahrzeug kam direkt vor die Sunnewaid gefahren. V...
+--------------------
+[BREAK] Source Line ~5326
+Prev: ...em feinen Strahl Kaffee zu, der langsam aus dem Kolben lief.
+Next: 73...
+--------------------
+[BREAK] Source Line ~5330
+Prev: ...73
+Next: Mit der Tasse in der Hand setzte er sich auf die oberste Stu...
+--------------------
+[BREAK] Source Line ~5332
+Prev: ...sste sich zwingen, eine Menu-Idee für den Abend zu kreieren.
+Next: Auch heute lag der Himmel als blaues Dach über ihnen. Ganz s...
+--------------------
+[BREAK] Source Line ~5336
+Prev: ... Zucchetti verarbeiten. Bevor sie vor Wachstum explodierten.
+Next: Manuela und Ava schwärmten abwechselnd von Louis` Ratatouill...
+--------------------
+[BREAK] Source Line ~5342
+Prev: ...«Ja, klar,» Louis zerknüllte seine Serviette, «alles ready.»
+Next: Sie stellten das Geschirr zusammen. Trugen es gemeinsam die ...
+--------------------
+[BREAK] Source Line ~5403
+Prev: ...Er lachte nun auch. Seine Frage war damit beantwortet.
+Next: 74...
+--------------------
+[BREAK] Source Line ~5407
+Prev: ...74
+Next: Dienstag, 4. September...
+--------------------
+[BREAK] Source Line ~5409
+Prev: ...Dienstag, 4. September
+Next: Kurz vor Mitternacht hatte auch Louis in den Schlaf gefunden...
+--------------------
+[BREAK] Source Line ~5411
+Prev: ...nd er geduscht in der Küche und bereitete das Frühstück vor.
+Next: Aus der Praxis vernahm er ein kurzes Blöken, das sich mit Ma...
+--------------------
+[BREAK] Source Line ~5417
+Prev: ...nes Gewicht, das ihn jedes Mal ein bisschen zusammendrückte.
+Next: Der restliche Tag hielt Louis stabil an der Oberfläche. Die ...
+--------------------
+[BREAK] Source Line ~5420
+Prev: ...«Ich glaube, wir haben es geschafft, meine Süsse.»
+Next: Dann ging Manuela Louis voran in den Stall. Ava war bereits ...
+--------------------
+[BREAK] Source Line ~5440
+Prev: ...r, lehnte sich an die Wand und drückte auf den grünen Knopf.
+Next: «Louis? Tut mir leid, ich musste dich anrufen.»...
+--------------------
+[BREAK] Source Line ~5508
+Prev: ...Von draussen hörte er Manuelas Stimme seinen Namen rufen.
+Next: 75...
+--------------------
+[BREAK] Source Line ~5512
+Prev: ...75
+Next: Auf der Alp, Bettmeralp/VS (CH), Mittwoch, 5. September...
+--------------------
+[BREAK] Source Line ~5514
+Prev: ...Auf der Alp, Bettmeralp/VS (CH), Mittwoch, 5. September
+Next: Die vielen Aufgaben liessen die Stunden erstaunlich schnell ...
+--------------------
+[BREAK] Source Line ~5517
+Prev: ...o bei ihr? Warum hatten die Kontakt? Was wusste sie von dem?
+Next: Der junge Tag hatte etwas Knackiges, Frisches, und von sich ...
+--------------------
+[BREAK] Source Line ~5575
+Prev: ...osigkeit schwappte nervös zwischen ihren Handys hin und her.
+Next: 76...
+--------------------
+[BREAK] Source Line ~5579
+Prev: ...76
+Next: Louis` restliche Aufstiegszeit verging in null Komma nichts....
+--------------------
+[BREAK] Source Line ~5584
+Prev: ...es. Er würde nichts tun. Gar nichts. Wie all die Tage davor.
+Next: Die letzten Meter waren geschafft. Beim Ablegen seines Rucks...
+--------------------
+[BREAK] Source Line ~5591
+Prev: ...«Ja, klar. Mache ich gerne. Bis gleich.»
+Next: Louis trug den Rucksack in den kleinen Vorraum der Hütte. Da...
+--------------------
+[BREAK] Source Line ~5601
+Prev: ...lemmt. Ich hol die Werkzeugkiste. Gehst du schon mal rüber?»
+Next: 77...
+--------------------
+[BREAK] Source Line ~5605
+Prev: ...77
+Next: Sie knieten sich gegenüber. Zwischen ihnen der eiserne Pumpa...
+--------------------
+[BREAK] Source Line ~5677
+Prev: ... geweckt. Und er konnte zusehen, wie Joh in sich verschwand.
+Next: Ivano Fossati “C`è tempo» - YouTube...
+--------------------
+[BREAK] Source Line ~5682
+Prev: ...Ivano Fossati “C`è tempo» - YouTube
+Next: «Phu, wow.»...
+--------------------
+[BREAK] Source Line ~5706
+Prev: ... Schwächen vor Louis ausbreitete. Joh war  aussergewöhnlich.
+Next: Joh beendete den Anruf. Er legte das Handy auf den Esstisch....
+--------------------
+[BREAK] Source Line ~5722
+Prev: ...ich über verschiedene Zubereitungsarten von Gemüseaufläufen.
+Next: 78...
+--------------------
+[BREAK] Source Line ~5726
+Prev: ...78
+Next: Bettmeralp/VS (CH), Donnerstag, 6. September...
+--------------------
+[BREAK] Source Line ~5728
+Prev: ...Bettmeralp/VS (CH), Donnerstag, 6. September
+Next: Den Nachmittag verbrachte Louis mit den Schafen. Seine Mitar...
+--------------------
+[BREAK] Source Line ~5730
+Prev: ... offensichtlich, wie viel Respekt David Joh entgegenbrachte.
+Next: Neben dem Versorgen der Tiere und Johs kleineren Trainingsei...
+--------------------
+[BREAK] Source Line ~5735
+Prev: ...issbraucht eigentlich. Louis fühlte sich schuldiger denn je.
+Next: Der Donnerstag verlief unaufgeregt. Klar geregelt. Ohne grös...
+--------------------
+[BREAK] Source Line ~5746
+Prev: ...e ihm zugesehen haben. Er stand neben Louis und schmunzelte.
+Next: Die Programmänderung gab Joh nach dem Nachtessen bekannt....
+--------------------
+[BREAK] Source Line ~5753
+Prev: ...Er schüttelte das Wasser ab. Und liess sich lufttrocknen.
+Next: Um fünf weckte ihn das Handyrattern. Traumfetzen hingen in d...
+--------------------
+[BREAK] Source Line ~5763
+Prev: ... Abend würde Louis Manuela bitten, sich sein Knie anzusehen.
+Next: Auf der «Sunnewaid» angekommen, begegneten sie Manuela und A...
+--------------------
+[BREAK] Source Line ~5786
+Prev: ...Louis nickte lächelnd. Die Strategie hatte was.
+Next: Sie begannen gleich nach dem Frühstück. Die Pfosten waren au...
+--------------------
+[BREAK] Source Line ~5804
+Prev: ...Sie starteten die Umzäunung in der Nähe des Hauses.
+Next: 79...
+--------------------
+[BREAK] Source Line ~5808
+Prev: ...79
+Next: Freitag, 7. September...
+--------------------
+[BREAK] Source Line ~5810
+Prev: ...Freitag, 7. September
+Next: Joh hielt inne, senkte den Vorschlaghammer und stellte ihn v...
+--------------------
+[BREAK] Source Line ~5824
+Prev: ...Louis rief ein Jep zurück. Und war weg.
+Next: Beim Abstieg fragte er sich, wie das Leben hier auf der Sunn...
+--------------------
+[BREAK] Source Line ~5878
+Prev: ...«Joh. Hilfe.»
+Next: 80...
+--------------------
+[BREAK] Source Line ~5882
+Prev: ...80
+Next: Louis verzog das Gesicht....
+--------------------
+[BREAK] Source Line ~5892
+Prev: ...dlich oben waren. Auch Joh war mächtig ausser Atem gekommen.
+Next: Sie erwarteten Manuela und Ava auf den Abend zurück. Joh küm...
+--------------------
+[BREAK] Source Line ~5945
+Prev: ...haffen, während des Abendessens unauffällig zu verschwinden.
+Next: 81...
+--------------------
+[BREAK] Source Line ~5949
+Prev: ...81
+Next: Die Schritte über die Treppe hörten sich schleppend an. Loui...
+--------------------
+[BREAK] Source Line ~5969
+Prev: ...«Was zum Teufel ist denn dir passiert, Ciro?»
+Next: Joh setzte sich in die Küche ab. Und Louis fand sich schlies...
+--------------------
+[BREAK] Source Line ~5975
+Prev: ...«Ja. Ich danke dir, Manuela.»
+Next: Mit Ava waren sie schliesslich komplett. Joh servierte....
+--------------------
+[BREAK] Source Line ~5981
+Prev: ...gute halbe Stunde. Er stieg die Treppe zur Schäferloft hoch.
+Next: «Passt, ich nehme dich gleich mit, Moment, bleib dran.»...
+--------------------
+[BREAK] Source Line ~6050
+Prev: ...Avas Stimme klang nach Überraschung.
+Next: 82...
+--------------------
+[BREAK] Source Line ~6054
+Prev: ...82
+Next: Freitag, 7. September...
+--------------------
+[BREAK] Source Line ~6056
+Prev: ...Freitag, 7. September
+Next: Unten empfing Louis ein dominant zuckriger Duft nach Schokol...
+--------------------
+[BREAK] Source Line ~6106
+Prev: ...Avas Augen glänzten.
+Next: Lorenzo Jovannotti «Chiaro di luna»...
+--------------------
+[BREAK] Source Line ~6110
+Prev: ...Lorenzo Jovannotti «Chiaro di luna»
+Next: «Ich kenn den Song, ja, musikalisch und inhaltlich gross. Nu...
+--------------------
+[BREAK] Source Line ~6119
+Prev: ...«Wie auch immer, wunderschön ist der Song ohnehin.»
+Next: Als Louis mit seiner Gitarre zurückkam, sassen die drei ents...
+--------------------
+[BREAK] Source Line ~6129
+Prev: ...hren Kopf auf den Händen ab. Und alle drei sahen bereit aus.
+Next: Lorenzo Jovanotti «À Te»...
+--------------------
+[BREAK] Source Line ~6131
+Prev: ...Lorenzo Jovanotti «À Te»
+Next: Avas Gesicht hatte geleuchtet. Von Takt zu Takt heller. Ihre...
+--------------------
+[BREAK] Source Line ~6183
+Prev: ...en enden. Louis strengte sich an, zuzuhören und mitzulachen.
+Next: 83...
+--------------------
+[BREAK] Source Line ~6187
+Prev: ...83
+Next: Mailand (IT), Mittwoch, 5. September...
+--------------------
+[BREAK] Source Line ~6189
+Prev: ...Mailand (IT), Mittwoch, 5. September
+Next: Mantovani öffnete die Tür....
+--------------------
+[BREAK] Source Line ~6255
+Prev: ...überzeugt. Die Suche nach dem Mann würde nicht lange dauern.
+Next: 84...
+--------------------
+[BREAK] Source Line ~6259
+Prev: ...84
+Next: Bettmeralp/VS (CH), Freitag, 7. September...
+--------------------
+[BREAK] Source Line ~6261
+Prev: ...Bettmeralp/VS (CH), Freitag, 7. September
+Next: Manuela und Ava übernahmen die Küchenarbeit. Joh erledigte B...
+--------------------
+[BREAK] Source Line ~6263
+Prev: ...d Louis entschuldigte sich mit dringend anstehenden Anrufen.
+Next: In überschaubarer Nähe oberhalb des Hauses entdeckte Louis e...
+--------------------
+[BREAK] Source Line ~6271
+Prev: ...ich gemacht. Darunter eine Mitteilung der Mailänder Polizei.
+Next: «Nächtlicher Auftritt des Mannes auf der Polizeistation gekl...
+--------------------
+[BREAK] Source Line ~6274
+Prev: ... Commissario Alessandro Mantovani, Polizia di Stato Milano.”
+Next: Ob Valentina die Meldung gesehen hatte?...
+--------------------
+[BREAK] Source Line ~6324
+Prev: ...Louis betrat leise die Schäferloft. Ava schlief.
+Next: 85...
+--------------------
+[BREAK] Source Line ~6328
+Prev: ...85
+Next: Samstag, 8. September...
+--------------------
+[BREAK] Source Line ~6330
+Prev: ...Samstag, 8. September
+Next: Die Berührung war sanft. Aber sie passte nicht. Nicht zu den...
+--------------------
+[BREAK] Source Line ~6347
+Prev: ...Dann hörte er ihre nackten Füsse über den Holzboden tappen.
+Next: Ava erwachte mit dem Geplätscher der Dusche. Sie hatte lange...
+--------------------
+[BREAK] Source Line ~6358
+Prev: ...on ihren Beobachtungen erzählen. Oder vielleicht besser Joh?
+Next: Schon im Flur hörte Ava die drei unten rege diskutieren. Man...
+--------------------
+[BREAK] Source Line ~6398
+Prev: ...sst die Aufmerksamkeit, als einzige Schwarznase hier unten.»
+Next: 86...
+--------------------
+[BREAK] Source Line ~6402
+Prev: ...86
+Next: Joh stand auf, rückte den Stuhl neben sich zurecht und lud A...
+--------------------
+[BREAK] Source Line ~6419
+Prev: ...Louis würgte die Gedanken ab. Und fühlte sich noch schwerer.
+Next: Damals, Fribourg, neun....
+--------------------
+[BREAK] Source Line ~6446
+Prev: ...l zu und meldet sich nicht. Die Lehrerin sieht so schön aus.
+Next: Es musste irgend etwas passieren. Den weiteren Gesprächen hö...
+--------------------
+[BREAK] Source Line ~6452
+Prev: ...Jetzt grinste er.
+Next: Louis humpelte die Treppe hoch. Er schloss die Tür der Schäf...
+--------------------
+[BREAK] Source Line ~6454
+Prev: ...r auf lautlos eingestellt. Trotzdem, er wurde zu nachlässig.
+Next: Louis setzte sich aufrecht auf sein Bett und wählte Valentin...
+--------------------
+[BREAK] Source Line ~6492
+Prev: ...«Nein.»
+Next: 87...
+--------------------
+[BREAK] Source Line ~6496
+Prev: ...87
+Next: Louis zwang sich die Treppe hinunter und schob sich in den S...
+--------------------
+[BREAK] Source Line ~6498
+Prev: ... Sackgasse enden. Und vor ihm würde sich der Abgrund auftun.
+Next: Louis blieb neben Joh stehen. Der schaute ihn von oben nach ...
+--------------------
+[BREAK] Source Line ~6534
+Prev: ...unten an. Sein Blick blieb auf Louis` blossen Füssen liegen.
+Next: Teil II...
+--------------------
+[BREAK] Source Line ~6582
+Prev: ...Teil II
+Next: 88...
+--------------------
+[BREAK] Source Line ~6586
+Prev: ...88
+Next: Bettmeralp/VS (CH), Samstag, 8. September...
+--------------------
+[BREAK] Source Line ~6589
+Prev: ...Ava
+Next: Sie wirft mir eine Schürze zu. Ich kann sie gerade noch auff...
+--------------------
+[BREAK] Source Line ~6602
+Prev: ... zuhalten und wie mich Dad hochhebt und aus dem Stall trägt.
+Next: Ava...
+--------------------
+[BREAK] Source Line ~6604
+Prev: ...Ava
+Next: Ich atme flach und warte ab. Da muss irgend etwas im Busch s...
+--------------------
+[BREAK] Source Line ~6615
+Prev: ...fülle die Gläser rasch ab und bewege mich zu Ultimos Gesang.
+Next: Ultimo «Farfalla bianca»...
+--------------------
+[BREAK] Source Line ~6619
+Prev: ...Ultimo «Farfalla bianca»
+Next: Urheberrecht Textausschnitt klären!...
+--------------------
+[BREAK] Source Line ~6626
+Prev: ...In quel posto dentro me.”
+Next: Ach, Daniel, Ultimo trägt mich gerade zu dir, es ist phantas...
+--------------------
+[BREAK] Source Line ~6628
+Prev: ...liegen die Schmetterlinge gerade um die Einmachgläser herum.
+Next: Neben mir huscht ein Schatten vorbei. Ciro. Er sieht mich ni...
+--------------------
+[BREAK] Source Line ~6637
+Prev: ...a sieht nachdenklich aus. Ciro senkt immer wieder den Blick.
+Next: Ava...
+--------------------
+[BREAK] Source Line ~6639
+Prev: ...Ava
+Next: Unterdessen scheint Joh in den Lösungsmodus gewechselt zu ha...
+--------------------
+[BREAK] Source Line ~6663
+Prev: ...Ich fühle mich in meinem Plan bestätigt.
+Next: Joh...
+--------------------
+[BREAK] Source Line ~6665
+Prev: ...Joh
+Next: Verdammt nochmal. Die Demontage der Raufen raubt mir noch de...
+--------------------
+[BREAK] Source Line ~6673
+Prev: ...en und Bens Ankunft planen können. Mein Energielevel steigt.
+Next: Louis...
+--------------------
+[BREAK] Source Line ~6675
+Prev: ...Louis
+Next: Ich bin ein Feigling. Ein elender Feigling. Noch gelang es, ...
+--------------------
+[BREAK] Source Line ~6677
+Prev: ...rschränke die Arme vor meiner Brust. Dieser verdammte Stock.
+Next: Nun gut, Avas Vater springt tatsächlich ein. Das vordringlic...
+--------------------
+[BREAK] Source Line ~6689
+Prev: ...or ich die Badezimmertür öffne, warte ich noch einen Moment.
+Next: Louis...
+--------------------
+[BREAK] Source Line ~6691
+Prev: ...Louis
+Next: Mit einem Sandwich in der Hand trete ich in den nördlichen A...
+--------------------
+[BREAK] Source Line ~6697
+Prev: ...zu müssen, grenzt an miese Vorsehung, schlechtweg an Folter.
+Next: Leonard Cohen “Dance me to the end of love”...
+--------------------
+[BREAK] Source Line ~6701
+Prev: ...Leonard Cohen “Dance me to the end of love”
+Next: Ich komme mir albern vor, wie ich mich langsam an die westli...
+--------------------
+[BREAK] Source Line ~6719
+Prev: ...r der Anruf kommt. Sie macht kehrt und verschwindet im Haus.
+Next: Ich glaube, Ava hat mir meine Ausrede abgekauft. Ich atme du...
+--------------------
+[BREAK] Source Line ~6724
+Prev: ...ingt es immer wieder, mich eine Atempause lang aufzuheitern.
+Next: Patrick Bruel “J'te l'dis quand même”...
+--------------------
+[BREAK] Source Line ~6728
+Prev: ...Patrick Bruel “J'te l'dis quand même”
+Next: Entgegen meiner Neugierde verkneife ich mir, nochmal nachzus...
+--------------------
+[BREAK] Source Line ~6730
+Prev: ...Text. Die Worte schaffen es bis zu mir. Worte des Abschieds?
+Next: Urheberrecht Textausschnitt klären!...
+--------------------
+[BREAK] Source Line ~6733
+Prev: ...même te dire merci Pour tout le mal qu'on s'est pas dit.” *1
+Next: Der Inhalt befeuert einmal mehr meine Fragen rund um das Geh...
+--------------------
+[BREAK] Source Line ~6746
+Prev: ...h lausche dem Chanson bis es über dem Hotpot verklungen ist.
+Next: 89...
+--------------------
+[BREAK] Source Line ~6750
+Prev: ...89
+Next: Mailand (IT), Sonntag, 9. September...
+--------------------
+[BREAK] Source Line ~6753
+Prev: ...Valentina
+Next: Wo hört Loyalität auf, und wo beginnt meine Sorge um mich se...
+--------------------
+[BREAK] Source Line ~6783
+Prev: ...«Valentina?»
+Next: 90...
+--------------------
+[BREAK] Source Line ~6787
+Prev: ...90
+Next: Bettmeralp/VS (CH), Sonntag, 9. September...
+--------------------
+[BREAK] Source Line ~6790
+Prev: ...Manuela
+Next: Es gefällt mir, wie wir alle gemeinsam am Frühstückstisch si...
+--------------------
+[BREAK] Source Line ~6799
+Prev: ...herheit, wie gezielt er das Chanson damals ausgesucht hatte.
+Next: «Und wie wir es doch hinbekommen haben, meine Königin,» hatt...
+--------------------
+[BREAK] Source Line ~6801
+Prev: ...ss ich versuchte, ihn unterzutauchen. Ich schaffte es nicht.
+Next: Jetzt schaut Joh zu mir rüber. Er schmunzelt. Als würde er m...
+--------------------
+[BREAK] Source Line ~6815
+Prev: ...Nach dem Frühstück spreche ich mit Ava.
+Next: Louis...
+--------------------
+[BREAK] Source Line ~6817
+Prev: ...Louis
+Next: Mein Handy bewegt sich in der Hosentasche. Ich fahre zusamme...
+--------------------
+[BREAK] Source Line ~6820
+Prev: ...ch noch einmal schonungslos an die Kante des Felsens zurück.
+Next: Peter Gabriel «The Feeling Begins”...
+--------------------
+[BREAK] Source Line ~6824
+Prev: ...Peter Gabriel «The Feeling Begins”
+Next: Joh scheint mich beobachtet zu haben. Mit einer Handbewegung...
+--------------------
+[BREAK] Source Line ~6830
+Prev: ...«Natürlich, machen wir.»
+Next: Ich rufe Joh ein Danke zu und verschwinde erleichtert hinaus...
+--------------------
+[BREAK] Source Line ~6854
+Prev: ...Louis
+Next: Wie ein Tiger im Käfig gehe ich auf und ab. Umrunde schliess...
+--------------------
+[BREAK] Source Line ~6858
+Prev: ...ie hören nicht auf, mich anzusehen. Scheisssong, verdammter.
+Next: Zucchero & Miles Davis «Dune Mosse»...
+--------------------
+[BREAK] Source Line ~6881
+Prev: ...Zucchero & Miles Davis «Dune Mosse»
+Next: 91...
+--------------------
+[BREAK] Source Line ~6885
+Prev: ...91
+Next: Mailand (IT), Montag, 10. September...
+--------------------
+[BREAK] Source Line ~6888
+Prev: ...Commissario Alessandro Mantovani
+Next: Emma steht im Türrahmen meines Büros. Sie hebt fragend die H...
+--------------------
+[BREAK] Source Line ~6895
+Prev: ...«Ich hole sie.»
+Next: «Buongiorno, Signora Ricci.»...
+--------------------
+[BREAK] Source Line ~6965
+Prev: ...n Ihre Angst sehr gut. Die Männer haben Sie massiv bedroht.»
+Next: Teil III...
+--------------------
+[BREAK] Source Line ~7012
+Prev: ...Teil III
+Next: 92...
+--------------------
+[BREAK] Source Line ~7016
+Prev: ...92
+Next: Bettmeralp/VS (CH), Montag, 10. September...
+--------------------
+[BREAK] Source Line ~7018
+Prev: ...Bettmeralp/VS (CH), Montag, 10. September
+Next: «Er kommt.»...
+--------------------
+[BREAK] Source Line ~7024
+Prev: ... Manuela in die Küchentür. Ihre Gesichter spiegelten Freude.
+Next: Gedämpfte Klänge segelten in den Büroraum neben dem Stall. L...
+--------------------
+[BREAK] Source Line ~7027
+Prev: ...itt dynamisch die Wiese hoch. Wer wohl dieser Ben Brand war?
+Next: Bob Dylan «Hurricane»...
+--------------------
+[BREAK] Source Line ~7031
+Prev: ...Bob Dylan «Hurricane»
+Next: “Keine Angst,” Bens Worte suchten sich Raum zwischen seinem ...
+--------------------
+[BREAK] Source Line ~7041
+Prev: ...Sie zwinkerte ihm zu und küsste ihn auf die Wange.
+Next: Louis verfolgte die Szene nach wie vor durchs gekippte Fenst...
+--------------------
+[BREAK] Source Line ~7045
+Prev: ...te aufhören. Seine Lüge neigte sich endgültig ihrem Ende zu.
+Next: Ein kurzes Klopfen riss Louis aus der Szene. Ava öffnete die...
+--------------------
+[BREAK] Source Line ~7092
+Prev: ...Ava hob den Daumen und war gleich wieder weg.
+Next: 93...
+--------------------
+[BREAK] Source Line ~7096
+Prev: ...93
+Next: Louis schloss die Tür zum Büroraum und schlich sich in die K...
+--------------------
+[BREAK] Source Line ~7124
+Prev: ... es nur knapp geschafft, Joh die Stockszene zu verschweigen.
+Next: Es war dieses geborgene Gefühl, wie es Louis vor ein paar Ta...
+--------------------
+[BREAK] Source Line ~7126
+Prev: ...marmung am liebsten eingeschlafen und nicht mehr aufgewacht.
+Next: Damals, Fribourg, 10...
+--------------------
+[BREAK] Source Line ~7141
+Prev: ... wissen. Er hofft, dass Teddy nichts Schlimmes passiert ist.
+Next: Zwei Tage geht alles gut. Louis vermeidet es, den Käfig zu r...
+--------------------
+[BREAK] Source Line ~7185
+Prev: ...eckt ihn mit Erde, bis der Waldboden wieder geschlossen ist.
+Next: 94...
+--------------------
+[BREAK] Source Line ~7189
+Prev: ...94
+Next: Bettmeralp/VS (CH), Dienstag, 11. September...
+--------------------
+[BREAK] Source Line ~7191
+Prev: ...Bettmeralp/VS (CH), Dienstag, 11. September
+Next: Ben schnürte seine Schuhe....
+--------------------
+[BREAK] Source Line ~7199
+Prev: ...en und du glaubst nicht, wie froh ich bin, dass du da bist.»
+Next: Die ersten Minuten gingen sie still und so langsam, als gelt...
+--------------------
+[BREAK] Source Line ~7268
+Prev: ...neinander her. Beide hatten sie viel zu erzählen. Wie immer.
+Next: 95...
+--------------------
+[BREAK] Source Line ~7272
+Prev: ...95
+Next: Mailand (IT), Dienstag, 11. September...
+--------------------
+[BREAK] Source Line ~7274
+Prev: ...Mailand (IT), Dienstag, 11. September
+Next: «Buongiorno, Signora Ricci, mein Name ist Federico Rossi,» e...
+--------------------
+[BREAK] Source Line ~7281
+Prev: ...sichtern, vor allem, wenn sie Todesnachrichten überbrachten.
+Next: Die Männer standen unterdessen in ihrem kleinen Wohnzimmer u...
+--------------------
+[BREAK] Source Line ~7342
+Prev: ...«Das ist sie. Sie können ihr vertrauen.»
+Next: 96...
+--------------------
+[BREAK] Source Line ~7346
+Prev: ...96
+Next: Bettmeralp/VS (CH), Dienstag, 11. September...
+--------------------
+[BREAK] Source Line ~7348
+Prev: ...Bettmeralp/VS (CH), Dienstag, 11. September
+Next: Ava stellte eine Kaffeetasse unter den Ausguss der Kaffeemas...
+--------------------
+[BREAK] Source Line ~7364
+Prev: ...Mit einer Handbewegung liess Louis Ava vorangehen.
+Next: Es war ganz selbstverständlich gekommen. Ava hatte sich nich...
+--------------------
+[BREAK] Source Line ~7393
+Prev: ... Küchenfenster erreichte sie der Duft gebratener Kartoffeln.
+Next: Ultimo «Sogni Appesi»...
+--------------------
+[BREAK] Source Line ~7399
+Prev: ...Ultimo «Sogni Appesi»
+Next: 97...
+--------------------
+[BREAK] Source Line ~7403
+Prev: ...97
+Next: Bettmeralp/VS (CH), Mittwoch, 12. September...
+--------------------
+[BREAK] Source Line ~7405
+Prev: ...Bettmeralp/VS (CH), Mittwoch, 12. September
+Next: Manuela und Ava zogen noch vor Sonnenaufgang los. Vollgepack...
+--------------------
+[BREAK] Source Line ~7415
+Prev: ...hen wir unseren Plan nochmal durch, bevor Louis da ist, ok?»
+Next: Auch wenn Joh seinen Freund gut kannte, hatte er sich vergew...
+--------------------
+[BREAK] Source Line ~7431
+Prev: ...fernt so tief erschütterten, wie Louis` Identitätsschwindel.
+Next: 98...
+--------------------
+[BREAK] Source Line ~7435
+Prev: ...98
+Next: Unregelmässige Schrittgeräusche von oben näherten sich der K...
+--------------------
+[BREAK] Source Line ~7489
+Prev: ...Louis nickte. Diesmal bedächtiger.
+Next: 99...
+--------------------
+[BREAK] Source Line ~7493
+Prev: ...99
+Next: Der nach aussen abgeschirmte Ort auf der Nordseite der Sunne...
+--------------------
+[BREAK] Source Line ~7529
+Prev: ...Louis liess nichts aus.
+Next: 100...
+--------------------
+[BREAK] Source Line ~7533
+Prev: ...100
+Next: Mailand (IT), Mittwoch, 12. September...
+--------------------
+[BREAK] Source Line ~7535
+Prev: ...Mailand (IT), Mittwoch, 12. September
+Next: Valentina durchschritt den Flur der Questur bedeutend selbst...
+--------------------
+[BREAK] Source Line ~7584
+Prev: ...„Ich, ich vermute schon.“
+Next: 101...
+--------------------
+[BREAK] Source Line ~7588
+Prev: ...101
+Next: Mailand (IT), Donnerstag, 13. September...
+--------------------
+[BREAK] Source Line ~7590
+Prev: ...Mailand (IT), Donnerstag, 13. September
+Next: Diesmal ging sie alleine hin. Gleich nach dem Spitalbesuch w...
+--------------------
+[BREAK] Source Line ~7600
+Prev: ...Valentina hatte ihn angesehen und nichts zu sagen gewusst.
+Next: Der lange Korridor lag in einem schweren Duftgemisch von Des...
+--------------------
+[BREAK] Source Line ~7692
+Prev: ...«Ja.»
+Next: 102...
+--------------------
+[BREAK] Source Line ~7696
+Prev: ...102
+Next: Valentina verliess das Gebäude....
+--------------------
+[BREAK] Source Line ~7730
+Prev: ...arum sie sich wie angeschossen durch und durch elend fühlte.
+Next: 103...
+--------------------
+[BREAK] Source Line ~7734
+Prev: ...103
+Next: Bettmeralp/VS (CH), Donnerstag, 13. September...
+--------------------
+[BREAK] Source Line ~7736
+Prev: ...Bettmeralp/VS (CH), Donnerstag, 13. September
+Next: Das Handy am Ohr steuerte Joh die Bank vor der Sunnewaid an....
+--------------------
+[BREAK] Source Line ~7767
+Prev: ...«Ja, ich glaube schon.»
+Next: 104...
+--------------------
+[BREAK] Source Line ~7771
+Prev: ...104
+Next: Mailand (IT), Samstag, 15. September...
+--------------------
+[BREAK] Source Line ~7773
+Prev: ...Mailand (IT), Samstag, 15. September
+Next: Die Stunde Flugzeit hatte sich von Minute zu Minute zum Horr...
+--------------------
+[BREAK] Source Line ~7775
+Prev: ... seinen Augen verschwinden sah, flutete ihn brennende Hitze.
+Next: Kaum ins Taxi eingestiegen drehte der Taxifahrer das Radio l...
+--------------------
+[BREAK] Source Line ~7778
+Prev: .... Louis drückte seine Füsse auf den Teppichboden des Wagens.
+Next: «Top Ten Italian Hits of the Week» - YouTube...
+--------------------
+[BREAK] Source Line ~7782
+Prev: ...«Top Ten Italian Hits of the Week» - YouTube
+Next: Der Taxifahrer fuhr direkt in den Innenhof der Questur....
+--------------------
+[BREAK] Source Line ~7798
+Prev: ...nnt zu werden. Mit raschen Schritten durchquerte er den Hof.
+Next: 105...
+--------------------
+[BREAK] Source Line ~7802
+Prev: ...105
+Next: Flink wie Vogelpicke flogen die Finger der Polizistin über d...
+--------------------
+[BREAK] Source Line ~7808
+Prev: ...ben sie den aufgeklappten Pass unter der Trennscheibe durch.
+Next: «War Giorgia Sala alleine am Felsen oder waren da noch weite...
+--------------------
+[BREAK] Source Line ~7831
+Prev: ...ivederci, Signore Vincent, es ist gut, dass Sie hier waren.»
+Next: Louis verliess das Gebäude über die breite Treppe auf den In...
+--------------------
+[BREAK] Source Line ~7833
+Prev: ...lastend. Er unterdrückte die Tränen und schüttelte den Kopf.
+Next: Ben fand er auf einem Barhocker eine Strasse weiter. Er war ...
+--------------------
+[BREAK] Source Line ~7837
+Prev: ... ihm ab. Das lästige Nebengeräusch jedoch blieb. Hartnäckig.
+Next: Es bedrückte Louis, Mailand und seine ihm liebsten Menschen ...
+--------------------
+[BREAK] Source Line ~7863
+Prev: ...Sie flogen mit der nächsten Maschine zurück in die Schweiz.
+Next: 106...
+--------------------
+[BREAK] Source Line ~7867
+Prev: ...106
+Next: «Roccia del Culto», Mailand (IT), Montag, 20. August...
+--------------------
+[BREAK] Source Line ~7870
+Prev: ...Rückblende
+Next: In blickgeschütztem Abstand streifte Giorgia ihr Kleid hoch,...
+--------------------
+[BREAK] Source Line ~7891
+Prev: ...Giorgias letzte Worte hatten ihn nicht mehr erreicht.
+Next: 107...
+--------------------
+[BREAK] Source Line ~7895
+Prev: ...107
+Next: Bettmeralp/VS (CH), Dienstag, 18. September...
+--------------------
+[BREAK] Source Line ~7897
+Prev: ...Bettmeralp/VS (CH), Dienstag, 18. September
+Next: «Ja, Maman. Du kannst mir glauben, es war verdammt schwer, d...
+--------------------
+[BREAK] Source Line ~7929
+Prev: ...rst du die Erste sein, die ich bei meiner Rückkehr besuche.»
+Next: Eine angenehme Ruhe stellte sich ein, breitete sich gelassen...
+--------------------
+[BREAK] Source Line ~7933
+Prev: ...seit Wochen flogen seine Finger federleicht über die Saiten.
+Next: HAEVN «Where the Heart is»...
+--------------------
+[BREAK] Source Line ~7944
+Prev: ...HAEVN «Where the Heart is»
+Next: Teil IV...
+--------------------
+[BREAK] Source Line ~7992
+Prev: ...Teil IV
+Next: 108...
+--------------------
+[BREAK] Source Line ~7996
+Prev: ...108
+Next: Bettmeralp/VS (CH), im Oktober...
+--------------------
+[BREAK] Source Line ~7999
+Prev: ...Louis
+Next: Bereits aus Distanz erkenne ich die längliche Öffnung auf Bo...
+--------------------
+[BREAK] Source Line ~8016
+Prev: ...mmt, dass die Flaschenfütterung um einiges aufwendiger ist.»
+Next: Während wir hoch gehen, schaue ich Joh von der Seite an. Er ...
+--------------------
+[BREAK] Source Line ~8054
+Prev: ... es sein kann, glücklich zu sein. Ich möchte ein Schaf sein.
+Next: Louis...
+--------------------
+[BREAK] Source Line ~8056
+Prev: ...Louis
+Next: Durchkämpfen und Dranbleiben. Joh hat ja recht....
+--------------------
+[BREAK] Source Line ~8066
+Prev: ... besonders, wenn ich mich aus meinen Tiefs hochrappeln muss.
+Next: Manuela kippt Perla mit einem Ruck in Seitenlage. Die erschr...
+--------------------
+[BREAK] Source Line ~8109
+Prev: ...kommt hoch. Und in diesem Moment fasse ich einen Entschluss.
+Next: 109...
+--------------------
+[BREAK] Source Line ~8113
+Prev: ...109
+Next: Bettmeralp/VS (CH), im Oktober...
+--------------------
+[BREAK] Source Line ~8115
+Prev: ...Bettmeralp/VS (CH), im Oktober
+Next: Mit der Sonne zog sich auch allmählich die Wärme zurück. Der...
+--------------------
+[BREAK] Source Line ~8145
+Prev: ...Und was dachten sie über Maman?
+Next: Louis hatte nicht bemerkt, dass Manuela aufgestanden war. Si...
+--------------------
+[BREAK] Source Line ~8167
+Prev: ...uis die Tränen laufen. Sie kühlten seine überhitzten Wangen.
+Next: Gotthard “Father is that enough?»...
+--------------------
+[BREAK] Source Line ~8171
+Prev: ...Gotthard “Father is that enough?»
+Next: Die Klänge sanken weit über der Wiese ab und lösten sich im ...
+--------------------
+[BREAK] Source Line ~8209
+Prev: ...üfft an, stellte den Kessel ab und  schloss ihn in die Arme.
+Next: 110...
+--------------------
+[BREAK] Source Line ~8213
+Prev: ...110
+Next: «Danke, Maxime, und lass mir deine Mutter grüssen.»...
+--------------------
+[BREAK] Source Line ~8284
+Prev: ...«Hm, Buchvernissage nach dem Nachtessen?»
+Next: 111...
+--------------------
+[BREAK] Source Line ~8287
+Prev: ...111
+Next: Louis...
+--------------------
+[BREAK] Source Line ~8289
+Prev: ...Louis
+Next: Mein letztes Gespräch mit Joh hängt mir nach. Nach einigen R...
+--------------------
+[BREAK] Source Line ~8294
+Prev: ...ken. Avas Bildkommentare sind zu schön, um mich wegzudenken.
+Next: «Und für dich, Louis, hab ich das Fotobuch natürlich auch ge...
+--------------------
+[BREAK] Source Line ~8309
+Prev: ... ihr Handy und setzt sich wieder zu den andern an den Tisch.
+Next: Erst draussen beginne ich mit Ben zu sprechen....
+--------------------
+[BREAK] Source Line ~8346
+Prev: ...nd wie eine dicke Schicht Balsam auf mein geschundenes Herz.
+Next: 112...
+--------------------
+[BREAK] Source Line ~8350
+Prev: ...112
+Next: Bettmeralp/VS (CH), Anfang November...
+--------------------
+[BREAK] Source Line ~8353
+Prev: ...Louis
+Next: Ich ahne schon beim Reinkommen, dass es schwierig wird....
+--------------------
+[BREAK] Source Line ~8360
+Prev: ...n. Du bestimmst deine Reaktionen selbst. Erinnerst du dich?»
+Next: Wir haben mehrmals darüber geredet. Niemand kann dir deine G...
+--------------------
+[BREAK] Source Line ~8363
+Prev: ...tholen gerufen, «hör bitte auf, Joh. Ich, ich versteh`s ja.»
+Next: Ich hebe nun meinen Kopf, blicke in seine Augen und lächle. ...
+--------------------
+[BREAK] Source Line ~8374
+Prev: ...ch ihn. Ich höre mich nur noch sprechen, bis ich fertig bin.
+Next: Louis...
+--------------------
+[BREAK] Source Line ~8376
+Prev: ...Louis
+Next: Manuela setzt sich als Letzte an den Esstisch....
+--------------------
+[BREAK] Source Line ~8395
+Prev: ...ick. Nun, vielleicht klärt sich von selbst, was David quält.
+Next: Dann ist der Moment günstig. Ich lege meine Gabel neben dem ...
+--------------------
+[BREAK] Source Line ~8407
+Prev: ... gut, Louis. Solche Situationen sind für David kompliziert.»
+Next: Wir bleiben ungewöhnlich lange am Frühstückstisch sitzen. Ic...
+--------------------
+[BREAK] Source Line ~8417
+Prev: ...Typisch Joh. Wie gern ich ihn mag.
+Next: Die Fantastischen Vier «Zusammen»...
+--------------------
+[BREAK] Source Line ~8429
+Prev: ...Die Fantastischen Vier «Zusammen»
+Next: 113...
+--------------------
+[BREAK] Source Line ~8433
+Prev: ...113
+Next: Bettmeralp/VS (CH), im November...
+--------------------
+[BREAK] Source Line ~8436
+Prev: ...Louis
+Next: Nicht einmal während meiner bedürftigsten Phase wäre mir ein...
+--------------------
+[BREAK] Source Line ~8438
+Prev: ...e vielbeschäftigt er ist, hat er schon genug für mich getan.
+Next: Es ist ein paar Tage her. Ich sehe uns beide im Stall....
+--------------------
+[BREAK] Source Line ~8470
+Prev: ...«Du erinnerst mich an mich selbst.»
+Next: 114...
+--------------------
+[BREAK] Source Line ~8474
+Prev: ...114
+Next: Mailand (IT), im November...
+--------------------
+[BREAK] Source Line ~8477
+Prev: ...Louis
+Next: Wie genau Joh alles wissen will....
+--------------------
+[BREAK] Source Line ~8496
+Prev: ...er weiss wirklich, wie sehr ich seine Unterstützung schätze.
+Next: Sie hatten Johs Plan alle vor mir gekannt....
+--------------------
+[BREAK] Source Line ~8502
+Prev: ...eidung war erst am nächsten Morgen gekommen. Dafür glasklar.
+Next: Wir halten unsere Pause kurz. Joh ist meine Unruhe aufgefall...
+--------------------
+[BREAK] Source Line ~8517
+Prev: ...r Song passt heute um einiges besser. Ich fühle mich leicht.
+Next: Perry Como «Magic Moments»...
+--------------------
+[BREAK] Source Line ~8521
+Prev: ...Perry Como «Magic Moments»
+Next: Louis...
+--------------------
+[BREAK] Source Line ~8523
+Prev: ...Louis
+Next: Wir sind geschafft. Alle beide....
+--------------------
+[BREAK] Source Line ~8531
+Prev: ...t an den Hals. Dann zieht er meinen Kopf auf seine Schulter.
+Next: Wir haben den Ablauf der kommenden Tage mehrmals durchgespie...
+--------------------
+[BREAK] Source Line ~8561
+Prev: ...uch, und ganz speziell darauf, deine Mutter kennenzulernen.»
+Next: 115...
+--------------------
+[BREAK] Source Line ~8565
+Prev: ...115
+Next: Die Vorfreude auf das Wiedersehen lag bereits seit dem Verla...
+--------------------
+[BREAK] Source Line ~8569
+Prev: ...räumt. Er kam soeben nachhause. Es fühlte sich feierlich an.
+Next: Cover – ECCO «Le Vent Nous Portera» (Noir Désir) – (YouTube)...
+--------------------
+[BREAK] Source Line ~8573
+Prev: ...Cover – ECCO «Le Vent Nous Portera» (Noir Désir) – (YouTube)
+Next: Nach zwei Mal Klingeln surrte es, Louis fuhr zusammen, die E...
+--------------------
+[BREAK] Source Line ~8587
+Prev: ...nder und schlossen sie mit einer kräftigen Umarmung mit ein.
+Next: 116...
+--------------------
+[BREAK] Source Line ~8591
+Prev: ...116
+Next: Louis setzte sich Joh gegenüber an den Küchentisch. Der biss...
+--------------------
+[BREAK] Source Line ~8601
+Prev: ... er sich Johs Teller und liess ein Spiegelei darauf gleiten.
+Next: Sie assen schweigend. Schliesslich legte Joh sein Besteck zu...
+--------------------
+[BREAK] Source Line ~8633
+Prev: ...erster Linie freundliche Gesten waren und einfach gut taten.
+Next: Louis schaute in den Spiegel im Badezimmer. Die vergangenen ...
+--------------------
+[BREAK] Source Line ~8636
+Prev: ...a vorzustellen. Wie sie ihn ansehen und was sie sagen würde.
+Next: Beim Verlassen der Wohnung dachte er an Joh und seine Mutter...
+--------------------
+[BREAK] Source Line ~8642
+Prev: ...Gut, war er hier alleine.
+Next: Ed Sheeron «Castle on the Hill»...
+--------------------
+[BREAK] Source Line ~8649
+Prev: ...Ed Sheeron «Castle on the Hill»
+Next: 117...
+--------------------
+[BREAK] Source Line ~8653
+Prev: ...117
+Next: Der bissige Wind veranlasste Louis den Jackenkragen hochzusc...
+--------------------
+[BREAK] Source Line ~8683
+Prev: ...uf ihr Rad und liess Louis mit dem Brief in der Hand zurück.
+Next: 118...
+--------------------
+[BREAK] Source Line ~8688
+Prev: ...118
+Next: «Dieses kleine Biest.»...
+--------------------
+[BREAK] Source Line ~8694
+Prev: ...Louis musste etwas tun. Den Brief fasste er nicht mehr an.
+Next: Ohne weitere Gedanken holte er den Staubsauger aus dem Schra...
+--------------------
+[BREAK] Source Line ~8700
+Prev: ...Bevor er den Boden wischte, machte er sich einen Kaffee.
+Next: Mit Johs Rückkehr war auch das Nachtessen bereit. Das Kochen...
+--------------------
+[BREAK] Source Line ~8705
+Prev: ...» rief Louis ausgelassen, «Ossobuco, meine Königsdisziplin.»
+Next: Noch bevor sie zu essen begannen, warfen sie eine Münze. Es ...
+--------------------
+[BREAK] Source Line ~8758
+Prev: ...«Ok, in drei Worten, Louis: Valentina ist verliebt.»
+Next: 119...
+--------------------
+[BREAK] Source Line ~8762
+Prev: ...119
+Next: Nervi, Genua (IT), im November...
+--------------------
+[BREAK] Source Line ~8764
+Prev: ...Nervi, Genua (IT), im November
+Next: Sie waren soweit. Sogar die Wohnung hatten sie in Ordnung ge...
+--------------------
+[BREAK] Source Line ~8773
+Prev: ...nunterbrochen und verzweifelt nach einer passenden Reaktion.
+Next: Hi Louis...
+--------------------
+[BREAK] Source Line ~8785
+Prev: ...Valentina
+Next: Joh bewegte sich auf Louis zu....
+--------------------
+[BREAK] Source Line ~8797
+Prev: ...«Genau.»
+Next: Jeder zurückgelegte Kilometer liess Louis` Nervenkostüm noch...
+--------------------
+[BREAK] Source Line ~8835
+Prev: ...«Ich, ich hoffe, der Weg ist rollstuhlgängig.»
+Next: 120...
+--------------------
+[BREAK] Source Line ~8839
+Prev: ...120
+Next: Stazione Genua Nervi....
+--------------------
+[BREAK] Source Line ~8893
+Prev: ...«Pass auf sie auf, Louis, bis später.»
+Next: Sie waren alleine. Jetzt erst schaute Louis sie wirklich an....
+--------------------
+[BREAK] Source Line ~8922
+Prev: ...Giorgia löste die Bremse des Rollstuhls.
+Next: 121...
+--------------------
+[BREAK] Source Line ~8926
+Prev: ...121
+Next: Louis hatte sich seine Begegnung mit Giorgia zigmal vorgeste...
+--------------------
+[BREAK] Source Line ~8980
+Prev: ...ei für eine Songlänge zurückgekehrt. Exklusiv für sie beide.
+Next: Leonard Cohen «Moving on»...
+--------------------
+[BREAK] Source Line ~8998
+Prev: ...Leonard Cohen «Moving on»
+Next: URHEBERRECHTE TEXT KLÄREN!...
+--------------------
+[BREAK] Source Line ~9008
+Prev: ...wer verarscht wen? Wer zieht weiter, wer verarscht hier wen?
+Next: 122...
+--------------------
+[BREAK] Source Line ~9012
+Prev: ...122
+Next: Bis zum Ende des Liedes hatte Giorgias Blick auf ihrem Schos...
+--------------------
+[BREAK] Source Line ~9037
+Prev: ...«Ich weiss.»
+Next: Fine...
+--------------------
+[BREAK] Source Line ~9067
+Prev: ...Fine
+Next: Liebe Leserin, lieber Leser...
+--------------------
+[BREAK] Source Line ~9069
+Prev: ...Liebe Leserin, lieber Leser
+Next: Mit dem Kauf dieses Romans sind Sie auf eines von 12 Exempla...
+--------------------
+[BREAK] Source Line ~9071
+Prev: ...xemplaren gestossen, die eine kleine Überraschung enthalten.
+Next: Sollte Sie Ihr Weg nach Genua/Nervi führen, sollten Sie an d...
+--------------------
+[BREAK] Source Line ~9074
+Prev: ...eses Bons mit Vergnügen ein italienischer Espresso gereicht.
+Next: Brigitte Géraud...
+--------------------
+[BREAK] Source Line ~9083
+Prev: ...Brigitte Géraud
+Next: Buono per un espresso...
+--------------------
+[BREAK] Source Line ~9087
+Prev: ...entro il 2027
+Next: Via Sarfatti 8, Genova Nervi...
+--------------------
+[BREAK] Source Line ~9092
+Prev: ...Via Sarfatti 8, Genova Nervi
+Next: Der Bon muss direkt im Buch vorgewiesen werden....
+--------------------
