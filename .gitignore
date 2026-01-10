@@ -9,4 +9,5 @@ QR-CODE-Datum*
 *.fdb_latexmk
 *.synctex.gz
 *.pdf
+*.xdv
 missfont.log
