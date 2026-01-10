@@ -17,6 +17,10 @@
 \linenumbers % Start numbering
 \modulolinenumbers[5] % Number every 5th line
 
+% Reset line numbers at each chapter
+\let\oldchapter\chapter
+\renewcommand{\chapter}{\resetlinenumber\oldchapter}
+
 % Use serif font (Baskerville) for headings/disposition, set to 12pt (\large)
 \setkomafont{disposition}{\bfseries\large}
 \setkomafont{part}{\bfseries\fontsize{16pt}{20pt}\selectfont}
