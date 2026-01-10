@@ -17,9 +17,10 @@
 \linenumbers % Start numbering
 \modulolinenumbers[5] % Number every 5th line
 
-% Reset line numbers at each chapter
+% Reset line numbers at each chapter and show as chapter/line (e.g., 25/35)
 \let\oldchapter\chapter
 \renewcommand{\chapter}{\resetlinenumber\oldchapter}
+\renewcommand{\thelinenumber}{\thechapter/\arabic{linenumber}}
 
 % Use serif font (Baskerville) for headings/disposition, set to 12pt (\large)
 \setkomafont{disposition}{\bfseries\large}
