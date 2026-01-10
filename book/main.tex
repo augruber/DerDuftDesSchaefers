@@ -71,8 +71,15 @@
   \end{center}
 }
 
-% Disable numbering for all levels (Part=-1, Chapter=0)
-\setcounter{secnumdepth}{-2}
+% Suppress visible numbering without triggering "chapter without number" messages.
+% We keep secnumdepth at chapter level (0) so KOMA-Script sees chapters as numbered,
+% but we make the number format empty so nothing actually prints.
+\setcounter{secnumdepth}{0}
+\renewcommand*{\partformat}{}
+\renewcommand*{\chapterformat}{}
+\renewcommand*{\sectionformat}{}
+\renewcommand*{\subsectionformat}{}
+\renewcommand*{\paragraphformat}{}
 
 % Customize footnotes: no rule, more spacing
 \renewcommand*{\footnoterule}{}
