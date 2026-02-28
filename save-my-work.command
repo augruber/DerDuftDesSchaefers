@@ -8,22 +8,6 @@ echo "  Saving your work..."
 echo "================================================"
 echo ""
 
-# Pull latest changes from the cloud first
-echo "Checking for updates from the cloud..."
-echo ""
-git pull
-
-if [ $? -ne 0 ]; then
-    echo ""
-    echo "❌ Could not get the latest updates."
-    echo "   Please ask Aurel for help!"
-    echo ""
-    read -n 1 -s -r -p "Press any key to close..."
-    exit 1
-fi
-
-echo ""
-
 # Check if there are any changes at all
 if git diff --quiet && git diff --cached --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
     echo "✅ Nothing new to save — your work is already up to date!"
@@ -43,6 +27,22 @@ git commit -m "Mom's changes — $TIMESTAMP"
 if [ $? -ne 0 ]; then
     echo ""
     echo "❌ Something went wrong while saving locally."
+    echo "   Please ask Aurel for help!"
+    echo ""
+    read -n 1 -s -r -p "Press any key to close..."
+    exit 1
+fi
+
+echo ""
+echo "Checking for updates from the cloud..."
+echo ""
+
+# Pull remote changes using rebase — handles divergent branches cleanly
+git pull --rebase
+
+if [ $? -ne 0 ]; then
+    echo ""
+    echo "❌ Could not sync with the cloud."
     echo "   Please ask Aurel for help!"
     echo ""
     read -n 1 -s -r -p "Press any key to close..."
