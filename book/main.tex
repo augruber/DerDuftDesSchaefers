@@ -13,6 +13,7 @@
 \usepackage{calc}
 \usepackage{setspace}
 \usepackage{microtype}
+\usepackage{eso-pic}
 \usepackage[running]{lineno} % Added for proofreading
 \linenumbers % Start numbering
 \modulolinenumbers[5] % Number every 5th line
@@ -132,7 +133,16 @@
 % \tableofcontents
 
 
+% Cover page — full bleed, no blank pages before or after
+\AddToShipoutPictureBG*{%
+  \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio=false]{cover-4-format.jpg}%
+}
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+
 \input{chapters/00_frontmatter_Frontmatter.tex}
+
 \input{chapters/01_part_Teil_I.tex}
 \cleardoublepage
 \input{chapters/02_chapter_1.tex}
