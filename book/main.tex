@@ -15,6 +15,8 @@
 \usepackage{microtype}
 \usepackage{eso-pic}
 \usepackage[running]{lineno} % Added for proofreading
+\usepackage{etoolbox}
+
 \linenumbers % Start numbering
 \modulolinenumbers[5] % Number every 5th line
 
@@ -126,6 +128,7 @@
 \par}
 }
 
+\pretocmd{\part}{\cleardoubleoddpage}{}{}
 
 \begin{document}
 
@@ -137,6 +140,15 @@
 \AddToShipoutPictureBG*{%
   \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio=false]{cover-4-format.jpg}%
 }
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
+\thispagestyle{empty}
+\mbox{}
+\clearpage
 \thispagestyle{empty}
 \mbox{}
 \clearpage
